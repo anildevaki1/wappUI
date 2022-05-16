@@ -1,0 +1,4702 @@
+[
+    {
+        "ext": "123",
+        "typ": "application/vnd.lotus-1-2-3"
+    },
+    {
+        "ext": "1km",
+        "typ": "application/vnd.1000minds.decision-model+xml"
+    },
+    {
+        "ext": "3dml",
+        "typ": "text/vnd.in3d.3dml"
+    },
+    {
+        "ext": "3ds",
+        "typ": "image/x-3ds"
+    },
+    {
+        "ext": "3g2",
+        "typ": "video/3gpp2"
+    },
+    {
+        "ext": "3gp",
+        "typ": "video/3gpp"
+    },
+    {
+        "ext": "3gpp",
+        "typ": "video/3gpp"
+    },
+    {
+        "ext": "3mf",
+        "typ": "model/3mf"
+    },
+    {
+        "ext": "7z",
+        "typ": "application/x-7z-compressed"
+    },
+    {
+        "ext": "aab",
+        "typ": "application/x-authorware-bin"
+    },
+    {
+        "ext": "aac",
+        "typ": "audio/x-aac"
+    },
+    {
+        "ext": "aam",
+        "typ": "application/x-authorware-map"
+    },
+    {
+        "ext": "aas",
+        "typ": "application/x-authorware-seg"
+    },
+    {
+        "ext": "abw",
+        "typ": "application/x-abiword"
+    },
+    {
+        "ext": "ac",
+        "typ": "application/vnd.nokia.n-gage.ac+xml"
+    },
+    {
+        "ext": "acc",
+        "typ": "application/vnd.americandynamics.acc"
+    },
+    {
+        "ext": "ace",
+        "typ": "application/x-ace-compressed"
+    },
+    {
+        "ext": "acu",
+        "typ": "application/vnd.acucobol"
+    },
+    {
+        "ext": "acutc",
+        "typ": "application/vnd.acucorp"
+    },
+    {
+        "ext": "adp",
+        "typ": "audio/adpcm"
+    },
+    {
+        "ext": "aep",
+        "typ": "application/vnd.audiograph"
+    },
+    {
+        "ext": "afm",
+        "typ": "application/x-font-type1"
+    },
+    {
+        "ext": "afp",
+        "typ": "application/vnd.ibm.modcap"
+    },
+    {
+        "ext": "age",
+        "typ": "application/vnd.age"
+    },
+    {
+        "ext": "ahead",
+        "typ": "application/vnd.ahead.space"
+    },
+    {
+        "ext": "ai",
+        "typ": "application/postscript"
+    },
+    {
+        "ext": "aif",
+        "typ": "audio/x-aiff"
+    },
+    {
+        "ext": "aifc",
+        "typ": "audio/x-aiff"
+    },
+    {
+        "ext": "aiff",
+        "typ": "audio/x-aiff"
+    },
+    {
+        "ext": "air",
+        "typ": "application/vnd.adobe.air-application-installer-package+zip"
+    },
+    {
+        "ext": "ait",
+        "typ": "application/vnd.dvb.ait"
+    },
+    {
+        "ext": "ami",
+        "typ": "application/vnd.amiga.ami"
+    },
+    {
+        "ext": "amr",
+        "typ": "audio/amr"
+    },
+    {
+        "ext": "apk",
+        "typ": "application/vnd.android.package-archive"
+    },
+    {
+        "ext": "apng",
+        "typ": "image/apng"
+    },
+    {
+        "ext": "appcache",
+        "typ": "text/cache-manifest"
+    },
+    {
+        "ext": "application",
+        "typ": "application/x-ms-application"
+    },
+    {
+        "ext": "apr",
+        "typ": "application/vnd.lotus-approach"
+    },
+    {
+        "ext": "arc",
+        "typ": "application/x-freearc"
+    },
+    {
+        "ext": "arj",
+        "typ": "application/x-arj"
+    },
+    {
+        "ext": "asc",
+        "typ": "application/pgp-signature"
+    },
+    {
+        "ext": "asf",
+        "typ": "video/x-ms-asf"
+    },
+    {
+        "ext": "asm",
+        "typ": "text/x-asm"
+    },
+    {
+        "ext": "aso",
+        "typ": "application/vnd.accpac.simply.aso"
+    },
+    {
+        "ext": "asx",
+        "typ": "video/x-ms-asf"
+    },
+    {
+        "ext": "atc",
+        "typ": "application/vnd.acucorp"
+    },
+    {
+        "ext": "atom",
+        "typ": "application/atom+xml"
+    },
+    {
+        "ext": "atomcat",
+        "typ": "application/atomcat+xml"
+    },
+    {
+        "ext": "atomdeleted",
+        "typ": "application/atomdeleted+xml"
+    },
+    {
+        "ext": "atomsvc",
+        "typ": "application/atomsvc+xml"
+    },
+    {
+        "ext": "atx",
+        "typ": "application/vnd.antix.game-component"
+    },
+    {
+        "ext": "au",
+        "typ": "audio/basic"
+    },
+    {
+        "ext": "avi",
+        "typ": "video/x-msvideo"
+    },
+    {
+        "ext": "avif",
+        "typ": "image/avif"
+    },
+    {
+        "ext": "aw",
+        "typ": "application/applixware"
+    },
+    {
+        "ext": "azf",
+        "typ": "application/vnd.airzip.filesecure.azf"
+    },
+    {
+        "ext": "azs",
+        "typ": "application/vnd.airzip.filesecure.azs"
+    },
+    {
+        "ext": "azv",
+        "typ": "image/vnd.airzip.accelerator.azv"
+    },
+    {
+        "ext": "azw",
+        "typ": "application/vnd.amazon.ebook"
+    },
+    {
+        "ext": "b16",
+        "typ": "image/vnd.pco.b16"
+    },
+    {
+        "ext": "bat",
+        "typ": "application/x-msdownload"
+    },
+    {
+        "ext": "bcpio",
+        "typ": "application/x-bcpio"
+    },
+    {
+        "ext": "bdf",
+        "typ": "application/x-font-bdf"
+    },
+    {
+        "ext": "bdm",
+        "typ": "application/vnd.syncml.dm+wbxml"
+    },
+    {
+        "ext": "bdoc",
+        "typ": "application/x-bdoc"
+    },
+    {
+        "ext": "bed",
+        "typ": "application/vnd.realvnc.bed"
+    },
+    {
+        "ext": "bh2",
+        "typ": "application/vnd.fujitsu.oasysprs"
+    },
+    {
+        "ext": "bin",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "blb",
+        "typ": "application/x-blorb"
+    },
+    {
+        "ext": "blorb",
+        "typ": "application/x-blorb"
+    },
+    {
+        "ext": "bmi",
+        "typ": "application/vnd.bmi"
+    },
+    {
+        "ext": "bmml",
+        "typ": "application/vnd.balsamiq.bmml+xml"
+    },
+    {
+        "ext": "bmp",
+        "typ": "image/x-ms-bmp"
+    },
+    {
+        "ext": "book",
+        "typ": "application/vnd.framemaker"
+    },
+    {
+        "ext": "box",
+        "typ": "application/vnd.previewsystems.box"
+    },
+    {
+        "ext": "boz",
+        "typ": "application/x-bzip2"
+    },
+    {
+        "ext": "bpk",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "bsp",
+        "typ": "model/vnd.valve.source.compiled-map"
+    },
+    {
+        "ext": "btif",
+        "typ": "image/prs.btif"
+    },
+    {
+        "ext": "buffer",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "bz",
+        "typ": "application/x-bzip"
+    },
+    {
+        "ext": "bz2",
+        "typ": "application/x-bzip2"
+    },
+    {
+        "ext": "c",
+        "typ": "text/x-c"
+    },
+    {
+        "ext": "c11amc",
+        "typ": "application/vnd.cluetrust.cartomobile-config"
+    },
+    {
+        "ext": "c11amz",
+        "typ": "application/vnd.cluetrust.cartomobile-config-pkg"
+    },
+    {
+        "ext": "c4d",
+        "typ": "application/vnd.clonk.c4group"
+    },
+    {
+        "ext": "c4f",
+        "typ": "application/vnd.clonk.c4group"
+    },
+    {
+        "ext": "c4g",
+        "typ": "application/vnd.clonk.c4group"
+    },
+    {
+        "ext": "c4p",
+        "typ": "application/vnd.clonk.c4group"
+    },
+    {
+        "ext": "c4u",
+        "typ": "application/vnd.clonk.c4group"
+    },
+    {
+        "ext": "cab",
+        "typ": "application/vnd.ms-cab-compressed"
+    },
+    {
+        "ext": "caf",
+        "typ": "audio/x-caf"
+    },
+    {
+        "ext": "cap",
+        "typ": "application/vnd.tcpdump.pcap"
+    },
+    {
+        "ext": "car",
+        "typ": "application/vnd.curl.car"
+    },
+    {
+        "ext": "cat",
+        "typ": "application/vnd.ms-pki.seccat"
+    },
+    {
+        "ext": "cb7",
+        "typ": "application/x-cbr"
+    },
+    {
+        "ext": "cba",
+        "typ": "application/x-cbr"
+    },
+    {
+        "ext": "cbr",
+        "typ": "application/x-cbr"
+    },
+    {
+        "ext": "cbt",
+        "typ": "application/x-cbr"
+    },
+    {
+        "ext": "cbz",
+        "typ": "application/x-cbr"
+    },
+    {
+        "ext": "cc",
+        "typ": "text/x-c"
+    },
+    {
+        "ext": "cco",
+        "typ": "application/x-cocoa"
+    },
+    {
+        "ext": "cct",
+        "typ": "application/x-director"
+    },
+    {
+        "ext": "ccxml",
+        "typ": "application/ccxml+xml"
+    },
+    {
+        "ext": "cdbcmsg",
+        "typ": "application/vnd.contact.cmsg"
+    },
+    {
+        "ext": "cdf",
+        "typ": "application/x-netcdf"
+    },
+    {
+        "ext": "cdfx",
+        "typ": "application/cdfx+xml"
+    },
+    {
+        "ext": "cdkey",
+        "typ": "application/vnd.mediastation.cdkey"
+    },
+    {
+        "ext": "cdmia",
+        "typ": "application/cdmi-capability"
+    },
+    {
+        "ext": "cdmic",
+        "typ": "application/cdmi-container"
+    },
+    {
+        "ext": "cdmid",
+        "typ": "application/cdmi-domain"
+    },
+    {
+        "ext": "cdmio",
+        "typ": "application/cdmi-object"
+    },
+    {
+        "ext": "cdmiq",
+        "typ": "application/cdmi-queue"
+    },
+    {
+        "ext": "cdx",
+        "typ": "chemical/x-cdx"
+    },
+    {
+        "ext": "cdxml",
+        "typ": "application/vnd.chemdraw+xml"
+    },
+    {
+        "ext": "cdy",
+        "typ": "application/vnd.cinderella"
+    },
+    {
+        "ext": "cer",
+        "typ": "application/pkix-cert"
+    },
+    {
+        "ext": "cfs",
+        "typ": "application/x-cfs-compressed"
+    },
+    {
+        "ext": "cgm",
+        "typ": "image/cgm"
+    },
+    {
+        "ext": "chat",
+        "typ": "application/x-chat"
+    },
+    {
+        "ext": "chm",
+        "typ": "application/vnd.ms-htmlhelp"
+    },
+    {
+        "ext": "chrt",
+        "typ": "application/vnd.kde.kchart"
+    },
+    {
+        "ext": "cif",
+        "typ": "chemical/x-cif"
+    },
+    {
+        "ext": "cii",
+        "typ": "application/vnd.anser-web-certificate-issue-initiation"
+    },
+    {
+        "ext": "cil",
+        "typ": "application/vnd.ms-artgalry"
+    },
+    {
+        "ext": "cjs",
+        "typ": "application/node"
+    },
+    {
+        "ext": "cla",
+        "typ": "application/vnd.claymore"
+    },
+    {
+        "ext": "class",
+        "typ": "application/java-vm"
+    },
+    {
+        "ext": "clkk",
+        "typ": "application/vnd.crick.clicker.keyboard"
+    },
+    {
+        "ext": "clkp",
+        "typ": "application/vnd.crick.clicker.palette"
+    },
+    {
+        "ext": "clkt",
+        "typ": "application/vnd.crick.clicker.template"
+    },
+    {
+        "ext": "clkw",
+        "typ": "application/vnd.crick.clicker.wordbank"
+    },
+    {
+        "ext": "clkx",
+        "typ": "application/vnd.crick.clicker"
+    },
+    {
+        "ext": "clp",
+        "typ": "application/x-msclip"
+    },
+    {
+        "ext": "cmc",
+        "typ": "application/vnd.cosmocaller"
+    },
+    {
+        "ext": "cmdf",
+        "typ": "chemical/x-cmdf"
+    },
+    {
+        "ext": "cml",
+        "typ": "chemical/x-cml"
+    },
+    {
+        "ext": "cmp",
+        "typ": "application/vnd.yellowriver-custom-menu"
+    },
+    {
+        "ext": "cmx",
+        "typ": "image/x-cmx"
+    },
+    {
+        "ext": "cod",
+        "typ": "application/vnd.rim.cod"
+    },
+    {
+        "ext": "coffee",
+        "typ": "text/coffeescript"
+    },
+    {
+        "ext": "com",
+        "typ": "application/x-msdownload"
+    },
+    {
+        "ext": "conf",
+        "typ": "text/plain"
+    },
+    {
+        "ext": "cpio",
+        "typ": "application/x-cpio"
+    },
+    {
+        "ext": "cpp",
+        "typ": "text/x-c"
+    },
+    {
+        "ext": "cpt",
+        "typ": "application/mac-compactpro"
+    },
+    {
+        "ext": "crd",
+        "typ": "application/x-mscardfile"
+    },
+    {
+        "ext": "crl",
+        "typ": "application/pkix-crl"
+    },
+    {
+        "ext": "crt",
+        "typ": "application/x-x509-ca-cert"
+    },
+    {
+        "ext": "crx",
+        "typ": "application/x-chrome-extension"
+    },
+    {
+        "ext": "cryptonote",
+        "typ": "application/vnd.rig.cryptonote"
+    },
+    {
+        "ext": "csh",
+        "typ": "application/x-csh"
+    },
+    {
+        "ext": "csl",
+        "typ": "application/vnd.citationstyles.style+xml"
+    },
+    {
+        "ext": "csml",
+        "typ": "chemical/x-csml"
+    },
+    {
+        "ext": "csp",
+        "typ": "application/vnd.commonspace"
+    },
+    {
+        "ext": "css",
+        "typ": "text/css"
+    },
+    {
+        "ext": "cst",
+        "typ": "application/x-director"
+    },
+    {
+        "ext": "csv",
+        "typ": "text/csv"
+    },
+    {
+        "ext": "cu",
+        "typ": "application/cu-seeme"
+    },
+    {
+        "ext": "curl",
+        "typ": "text/vnd.curl"
+    },
+    {
+        "ext": "cww",
+        "typ": "application/prs.cww"
+    },
+    {
+        "ext": "cxt",
+        "typ": "application/x-director"
+    },
+    {
+        "ext": "cxx",
+        "typ": "text/x-c"
+    },
+    {
+        "ext": "dae",
+        "typ": "model/vnd.collada+xml"
+    },
+    {
+        "ext": "daf",
+        "typ": "application/vnd.mobius.daf"
+    },
+    {
+        "ext": "dart",
+        "typ": "application/vnd.dart"
+    },
+    {
+        "ext": "dataless",
+        "typ": "application/vnd.fdsn.seed"
+    },
+    {
+        "ext": "davmount",
+        "typ": "application/davmount+xml"
+    },
+    {
+        "ext": "dbf",
+        "typ": "application/vnd.dbf"
+    },
+    {
+        "ext": "dbk",
+        "typ": "application/docbook+xml"
+    },
+    {
+        "ext": "dcr",
+        "typ": "application/x-director"
+    },
+    {
+        "ext": "dcurl",
+        "typ": "text/vnd.curl.dcurl"
+    },
+    {
+        "ext": "dd2",
+        "typ": "application/vnd.oma.dd2+xml"
+    },
+    {
+        "ext": "ddd",
+        "typ": "application/vnd.fujixerox.ddd"
+    },
+    {
+        "ext": "ddf",
+        "typ": "application/vnd.syncml.dmddf+xml"
+    },
+    {
+        "ext": "dds",
+        "typ": "image/vnd.ms-dds"
+    },
+    {
+        "ext": "deb",
+        "typ": "application/x-debian-package"
+    },
+    {
+        "ext": "def",
+        "typ": "text/plain"
+    },
+    {
+        "ext": "deploy",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "der",
+        "typ": "application/x-x509-ca-cert"
+    },
+    {
+        "ext": "dfac",
+        "typ": "application/vnd.dreamfactory"
+    },
+    {
+        "ext": "dgc",
+        "typ": "application/x-dgc-compressed"
+    },
+    {
+        "ext": "dic",
+        "typ": "text/x-c"
+    },
+    {
+        "ext": "dir",
+        "typ": "application/x-director"
+    },
+    {
+        "ext": "dis",
+        "typ": "application/vnd.mobius.dis"
+    },
+    {
+        "ext": "disposition-notification",
+        "typ": "message/disposition-notification"
+    },
+    {
+        "ext": "dist",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "distz",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "djv",
+        "typ": "image/vnd.djvu"
+    },
+    {
+        "ext": "djvu",
+        "typ": "image/vnd.djvu"
+    },
+    {
+        "ext": "dll",
+        "typ": "application/x-msdownload"
+    },
+    {
+        "ext": "dmg",
+        "typ": "application/x-apple-diskimage"
+    },
+    {
+        "ext": "dmp",
+        "typ": "application/vnd.tcpdump.pcap"
+    },
+    {
+        "ext": "dms",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "dna",
+        "typ": "application/vnd.dna"
+    },
+    {
+        "ext": "doc",
+        "typ": "application/msword"
+    },
+    {
+        "ext": "docm",
+        "typ": "application/vnd.ms-word.document.macroenabled.12"
+    },
+    {
+        "ext": "docx",
+        "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+        "ext": "dot",
+        "typ": "application/msword"
+    },
+    {
+        "ext": "dotm",
+        "typ": "application/vnd.ms-word.template.macroenabled.12"
+    },
+    {
+        "ext": "dotx",
+        "typ": "application/vnd.openxmlformats-officedocument.wordprocessingml.template"
+    },
+    {
+        "ext": "dp",
+        "typ": "application/vnd.osgi.dp"
+    },
+    {
+        "ext": "dpg",
+        "typ": "application/vnd.dpgraph"
+    },
+    {
+        "ext": "dra",
+        "typ": "audio/vnd.dra"
+    },
+    {
+        "ext": "drle",
+        "typ": "image/dicom-rle"
+    },
+    {
+        "ext": "dsc",
+        "typ": "text/prs.lines.tag"
+    },
+    {
+        "ext": "dssc",
+        "typ": "application/dssc+der"
+    },
+    {
+        "ext": "dtb",
+        "typ": "application/x-dtbook+xml"
+    },
+    {
+        "ext": "dtd",
+        "typ": "application/xml-dtd"
+    },
+    {
+        "ext": "dts",
+        "typ": "audio/vnd.dts"
+    },
+    {
+        "ext": "dtshd",
+        "typ": "audio/vnd.dts.hd"
+    },
+    {
+        "ext": "dump",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "dvb",
+        "typ": "video/vnd.dvb.file"
+    },
+    {
+        "ext": "dvi",
+        "typ": "application/x-dvi"
+    },
+    {
+        "ext": "dwd",
+        "typ": "application/atsc-dwd+xml"
+    },
+    {
+        "ext": "dwf",
+        "typ": "model/vnd.dwf"
+    },
+    {
+        "ext": "dwg",
+        "typ": "image/vnd.dwg"
+    },
+    {
+        "ext": "dxf",
+        "typ": "image/vnd.dxf"
+    },
+    {
+        "ext": "dxp",
+        "typ": "application/vnd.spotfire.dxp"
+    },
+    {
+        "ext": "dxr",
+        "typ": "application/x-director"
+    },
+    {
+        "ext": "ear",
+        "typ": "application/java-archive"
+    },
+    {
+        "ext": "ecelp4800",
+        "typ": "audio/vnd.nuera.ecelp4800"
+    },
+    {
+        "ext": "ecelp7470",
+        "typ": "audio/vnd.nuera.ecelp7470"
+    },
+    {
+        "ext": "ecelp9600",
+        "typ": "audio/vnd.nuera.ecelp9600"
+    },
+    {
+        "ext": "ecma",
+        "typ": "application/ecmascript"
+    },
+    {
+        "ext": "edm",
+        "typ": "application/vnd.novadigm.edm"
+    },
+    {
+        "ext": "edx",
+        "typ": "application/vnd.novadigm.edx"
+    },
+    {
+        "ext": "efif",
+        "typ": "application/vnd.picsel"
+    },
+    {
+        "ext": "ei6",
+        "typ": "application/vnd.pg.osasli"
+    },
+    {
+        "ext": "elc",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "emf",
+        "typ": "image/emf"
+    },
+    {
+        "ext": "eml",
+        "typ": "message/rfc822"
+    },
+    {
+        "ext": "emma",
+        "typ": "application/emma+xml"
+    },
+    {
+        "ext": "emotionml",
+        "typ": "application/emotionml+xml"
+    },
+    {
+        "ext": "emz",
+        "typ": "application/x-msmetafile"
+    },
+    {
+        "ext": "eol",
+        "typ": "audio/vnd.digital-winds"
+    },
+    {
+        "ext": "eot",
+        "typ": "application/vnd.ms-fontobject"
+    },
+    {
+        "ext": "eps",
+        "typ": "application/postscript"
+    },
+    {
+        "ext": "epub",
+        "typ": "application/epub+zip"
+    },
+    {
+        "ext": "es",
+        "typ": "application/ecmascript"
+    },
+    {
+        "ext": "es3",
+        "typ": "application/vnd.eszigno3+xml"
+    },
+    {
+        "ext": "esa",
+        "typ": "application/vnd.osgi.subsystem"
+    },
+    {
+        "ext": "esf",
+        "typ": "application/vnd.epson.esf"
+    },
+    {
+        "ext": "et3",
+        "typ": "application/vnd.eszigno3+xml"
+    },
+    {
+        "ext": "etx",
+        "typ": "text/x-setext"
+    },
+    {
+        "ext": "eva",
+        "typ": "application/x-eva"
+    },
+    {
+        "ext": "evy",
+        "typ": "application/x-envoy"
+    },
+    {
+        "ext": "exe",
+        "typ": "application/x-msdownload"
+    },
+    {
+        "ext": "exi",
+        "typ": "application/exi"
+    },
+    {
+        "ext": "exp",
+        "typ": "application/express"
+    },
+    {
+        "ext": "exr",
+        "typ": "image/aces"
+    },
+    {
+        "ext": "ext",
+        "typ": "application/vnd.novadigm.ext"
+    },
+    {
+        "ext": "ez",
+        "typ": "application/andrew-inset"
+    },
+    {
+        "ext": "ez2",
+        "typ": "application/vnd.ezpix-album"
+    },
+    {
+        "ext": "ez3",
+        "typ": "application/vnd.ezpix-package"
+    },
+    {
+        "ext": "f",
+        "typ": "text/x-fortran"
+    },
+    {
+        "ext": "f4v",
+        "typ": "video/x-f4v"
+    },
+    {
+        "ext": "f77",
+        "typ": "text/x-fortran"
+    },
+    {
+        "ext": "f90",
+        "typ": "text/x-fortran"
+    },
+    {
+        "ext": "fbs",
+        "typ": "image/vnd.fastbidsheet"
+    },
+    {
+        "ext": "fcdt",
+        "typ": "application/vnd.adobe.formscentral.fcdt"
+    },
+    {
+        "ext": "fcs",
+        "typ": "application/vnd.isac.fcs"
+    },
+    {
+        "ext": "fdf",
+        "typ": "application/vnd.fdf"
+    },
+    {
+        "ext": "fdt",
+        "typ": "application/fdt+xml"
+    },
+    {
+        "ext": "fe_launch",
+        "typ": "application/vnd.denovo.fcselayout-link"
+    },
+    {
+        "ext": "fg5",
+        "typ": "application/vnd.fujitsu.oasysgp"
+    },
+    {
+        "ext": "fgd",
+        "typ": "application/x-director"
+    },
+    {
+        "ext": "fh",
+        "typ": "image/x-freehand"
+    },
+    {
+        "ext": "fh4",
+        "typ": "image/x-freehand"
+    },
+    {
+        "ext": "fh5",
+        "typ": "image/x-freehand"
+    },
+    {
+        "ext": "fh7",
+        "typ": "image/x-freehand"
+    },
+    {
+        "ext": "fhc",
+        "typ": "image/x-freehand"
+    },
+    {
+        "ext": "fig",
+        "typ": "application/x-xfig"
+    },
+    {
+        "ext": "fits",
+        "typ": "image/fits"
+    },
+    {
+        "ext": "flac",
+        "typ": "audio/x-flac"
+    },
+    {
+        "ext": "fli",
+        "typ": "video/x-fli"
+    },
+    {
+        "ext": "flo",
+        "typ": "application/vnd.micrografx.flo"
+    },
+    {
+        "ext": "flv",
+        "typ": "video/x-flv"
+    },
+    {
+        "ext": "flw",
+        "typ": "application/vnd.kde.kivio"
+    },
+    {
+        "ext": "flx",
+        "typ": "text/vnd.fmi.flexstor"
+    },
+    {
+        "ext": "fly",
+        "typ": "text/vnd.fly"
+    },
+    {
+        "ext": "fm",
+        "typ": "application/vnd.framemaker"
+    },
+    {
+        "ext": "fnc",
+        "typ": "application/vnd.frogans.fnc"
+    },
+    {
+        "ext": "fo",
+        "typ": "application/vnd.software602.filler.form+xml"
+    },
+    {
+        "ext": "for",
+        "typ": "text/x-fortran"
+    },
+    {
+        "ext": "fpx",
+        "typ": "image/vnd.fpx"
+    },
+    {
+        "ext": "frame",
+        "typ": "application/vnd.framemaker"
+    },
+    {
+        "ext": "fsc",
+        "typ": "application/vnd.fsc.weblaunch"
+    },
+    {
+        "ext": "fst",
+        "typ": "image/vnd.fst"
+    },
+    {
+        "ext": "ftc",
+        "typ": "application/vnd.fluxtime.clip"
+    },
+    {
+        "ext": "fti",
+        "typ": "application/vnd.anser-web-funds-transfer-initiation"
+    },
+    {
+        "ext": "fvt",
+        "typ": "video/vnd.fvt"
+    },
+    {
+        "ext": "fxp",
+        "typ": "application/vnd.adobe.fxp"
+    },
+    {
+        "ext": "fxpl",
+        "typ": "application/vnd.adobe.fxp"
+    },
+    {
+        "ext": "fzs",
+        "typ": "application/vnd.fuzzysheet"
+    },
+    {
+        "ext": "g2w",
+        "typ": "application/vnd.geoplan"
+    },
+    {
+        "ext": "g3",
+        "typ": "image/g3fax"
+    },
+    {
+        "ext": "g3w",
+        "typ": "application/vnd.geospace"
+    },
+    {
+        "ext": "gac",
+        "typ": "application/vnd.groove-account"
+    },
+    {
+        "ext": "gam",
+        "typ": "application/x-tads"
+    },
+    {
+        "ext": "gbr",
+        "typ": "application/rpki-ghostbusters"
+    },
+    {
+        "ext": "gca",
+        "typ": "application/x-gca-compressed"
+    },
+    {
+        "ext": "gdl",
+        "typ": "model/vnd.gdl"
+    },
+    {
+        "ext": "gdoc",
+        "typ": "application/vnd.google-apps.document"
+    },
+    {
+        "ext": "ged",
+        "typ": "text/vnd.familysearch.gedcom"
+    },
+    {
+        "ext": "geo",
+        "typ": "application/vnd.dynageo"
+    },
+    {
+        "ext": "geojson",
+        "typ": "application/geo+json"
+    },
+    {
+        "ext": "gex",
+        "typ": "application/vnd.geometry-explorer"
+    },
+    {
+        "ext": "ggb",
+        "typ": "application/vnd.geogebra.file"
+    },
+    {
+        "ext": "ggt",
+        "typ": "application/vnd.geogebra.tool"
+    },
+    {
+        "ext": "ghf",
+        "typ": "application/vnd.groove-help"
+    },
+    {
+        "ext": "gif",
+        "typ": "image/gif"
+    },
+    {
+        "ext": "gim",
+        "typ": "application/vnd.groove-identity-message"
+    },
+    {
+        "ext": "glb",
+        "typ": "model/gltf-binary"
+    },
+    {
+        "ext": "gltf",
+        "typ": "model/gltf+json"
+    },
+    {
+        "ext": "gml",
+        "typ": "application/gml+xml"
+    },
+    {
+        "ext": "gmx",
+        "typ": "application/vnd.gmx"
+    },
+    {
+        "ext": "gnumeric",
+        "typ": "application/x-gnumeric"
+    },
+    {
+        "ext": "gph",
+        "typ": "application/vnd.flographit"
+    },
+    {
+        "ext": "gpx",
+        "typ": "application/gpx+xml"
+    },
+    {
+        "ext": "gqf",
+        "typ": "application/vnd.grafeq"
+    },
+    {
+        "ext": "gqs",
+        "typ": "application/vnd.grafeq"
+    },
+    {
+        "ext": "gram",
+        "typ": "application/srgs"
+    },
+    {
+        "ext": "gramps",
+        "typ": "application/x-gramps-xml"
+    },
+    {
+        "ext": "gre",
+        "typ": "application/vnd.geometry-explorer"
+    },
+    {
+        "ext": "grv",
+        "typ": "application/vnd.groove-injector"
+    },
+    {
+        "ext": "grxml",
+        "typ": "application/srgs+xml"
+    },
+    {
+        "ext": "gsf",
+        "typ": "application/x-font-ghostscript"
+    },
+    {
+        "ext": "gsheet",
+        "typ": "application/vnd.google-apps.spreadsheet"
+    },
+    {
+        "ext": "gslides",
+        "typ": "application/vnd.google-apps.presentation"
+    },
+    {
+        "ext": "gtar",
+        "typ": "application/x-gtar"
+    },
+    {
+        "ext": "gtm",
+        "typ": "application/vnd.groove-tool-message"
+    },
+    {
+        "ext": "gtw",
+        "typ": "model/vnd.gtw"
+    },
+    {
+        "ext": "gv",
+        "typ": "text/vnd.graphviz"
+    },
+    {
+        "ext": "gxf",
+        "typ": "application/gxf"
+    },
+    {
+        "ext": "gxt",
+        "typ": "application/vnd.geonext"
+    },
+    {
+        "ext": "gz",
+        "typ": "application/gzip"
+    },
+    {
+        "ext": "h",
+        "typ": "text/x-c"
+    },
+    {
+        "ext": "h261",
+        "typ": "video/h261"
+    },
+    {
+        "ext": "h263",
+        "typ": "video/h263"
+    },
+    {
+        "ext": "h264",
+        "typ": "video/h264"
+    },
+    {
+        "ext": "hal",
+        "typ": "application/vnd.hal+xml"
+    },
+    {
+        "ext": "hbci",
+        "typ": "application/vnd.hbci"
+    },
+    {
+        "ext": "hbs",
+        "typ": "text/x-handlebars-template"
+    },
+    {
+        "ext": "hdd",
+        "typ": "application/x-virtualbox-hdd"
+    },
+    {
+        "ext": "hdf",
+        "typ": "application/x-hdf"
+    },
+    {
+        "ext": "heic",
+        "typ": "image/heic"
+    },
+    {
+        "ext": "heics",
+        "typ": "image/heic-sequence"
+    },
+    {
+        "ext": "heif",
+        "typ": "image/heif"
+    },
+    {
+        "ext": "heifs",
+        "typ": "image/heif-sequence"
+    },
+    {
+        "ext": "hej2",
+        "typ": "image/hej2k"
+    },
+    {
+        "ext": "held",
+        "typ": "application/atsc-held+xml"
+    },
+    {
+        "ext": "hh",
+        "typ": "text/x-c"
+    },
+    {
+        "ext": "hjson",
+        "typ": "application/hjson"
+    },
+    {
+        "ext": "hlp",
+        "typ": "application/winhlp"
+    },
+    {
+        "ext": "hpgl",
+        "typ": "application/vnd.hp-hpgl"
+    },
+    {
+        "ext": "hpid",
+        "typ": "application/vnd.hp-hpid"
+    },
+    {
+        "ext": "hps",
+        "typ": "application/vnd.hp-hps"
+    },
+    {
+        "ext": "hqx",
+        "typ": "application/mac-binhex40"
+    },
+    {
+        "ext": "hsj2",
+        "typ": "image/hsj2"
+    },
+    {
+        "ext": "htc",
+        "typ": "text/x-component"
+    },
+    {
+        "ext": "htke",
+        "typ": "application/vnd.kenameaapp"
+    },
+    {
+        "ext": "htm",
+        "typ": "text/html"
+    },
+    {
+        "ext": "html",
+        "typ": "text/html"
+    },
+    {
+        "ext": "hvd",
+        "typ": "application/vnd.yamaha.hv-dic"
+    },
+    {
+        "ext": "hvp",
+        "typ": "application/vnd.yamaha.hv-voice"
+    },
+    {
+        "ext": "hvs",
+        "typ": "application/vnd.yamaha.hv-script"
+    },
+    {
+        "ext": "i2g",
+        "typ": "application/vnd.intergeo"
+    },
+    {
+        "ext": "icc",
+        "typ": "application/vnd.iccprofile"
+    },
+    {
+        "ext": "ice",
+        "typ": "x-conference/x-cooltalk"
+    },
+    {
+        "ext": "icm",
+        "typ": "application/vnd.iccprofile"
+    },
+    {
+        "ext": "ico",
+        "typ": "image/x-icon"
+    },
+    {
+        "ext": "ics",
+        "typ": "text/calendar"
+    },
+    {
+        "ext": "ief",
+        "typ": "image/ief"
+    },
+    {
+        "ext": "ifb",
+        "typ": "text/calendar"
+    },
+    {
+        "ext": "ifm",
+        "typ": "application/vnd.shana.informed.formdata"
+    },
+    {
+        "ext": "iges",
+        "typ": "model/iges"
+    },
+    {
+        "ext": "igl",
+        "typ": "application/vnd.igloader"
+    },
+    {
+        "ext": "igm",
+        "typ": "application/vnd.insors.igm"
+    },
+    {
+        "ext": "igs",
+        "typ": "model/iges"
+    },
+    {
+        "ext": "igx",
+        "typ": "application/vnd.micrografx.igx"
+    },
+    {
+        "ext": "iif",
+        "typ": "application/vnd.shana.informed.interchange"
+    },
+    {
+        "ext": "img",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "imp",
+        "typ": "application/vnd.accpac.simply.imp"
+    },
+    {
+        "ext": "ims",
+        "typ": "application/vnd.ms-ims"
+    },
+    {
+        "ext": "in",
+        "typ": "text/plain"
+    },
+    {
+        "ext": "ini",
+        "typ": "text/plain"
+    },
+    {
+        "ext": "ink",
+        "typ": "application/inkml+xml"
+    },
+    {
+        "ext": "inkml",
+        "typ": "application/inkml+xml"
+    },
+    {
+        "ext": "install",
+        "typ": "application/x-install-instructions"
+    },
+    {
+        "ext": "iota",
+        "typ": "application/vnd.astraea-software.iota"
+    },
+    {
+        "ext": "ipfix",
+        "typ": "application/ipfix"
+    },
+    {
+        "ext": "ipk",
+        "typ": "application/vnd.shana.informed.package"
+    },
+    {
+        "ext": "irm",
+        "typ": "application/vnd.ibm.rights-management"
+    },
+    {
+        "ext": "irp",
+        "typ": "application/vnd.irepository.package+xml"
+    },
+    {
+        "ext": "iso",
+        "typ": "application/x-iso9660-image"
+    },
+    {
+        "ext": "itp",
+        "typ": "application/vnd.shana.informed.formtemplate"
+    },
+    {
+        "ext": "its",
+        "typ": "application/its+xml"
+    },
+    {
+        "ext": "ivp",
+        "typ": "application/vnd.immervision-ivp"
+    },
+    {
+        "ext": "ivu",
+        "typ": "application/vnd.immervision-ivu"
+    },
+    {
+        "ext": "jad",
+        "typ": "text/vnd.sun.j2me.app-descriptor"
+    },
+    {
+        "ext": "jade",
+        "typ": "text/jade"
+    },
+    {
+        "ext": "jam",
+        "typ": "application/vnd.jam"
+    },
+    {
+        "ext": "jar",
+        "typ": "application/java-archive"
+    },
+    {
+        "ext": "jardiff",
+        "typ": "application/x-java-archive-diff"
+    },
+    {
+        "ext": "java",
+        "typ": "text/x-java-source"
+    },
+    {
+        "ext": "jhc",
+        "typ": "image/jphc"
+    },
+    {
+        "ext": "jisp",
+        "typ": "application/vnd.jisp"
+    },
+    {
+        "ext": "jls",
+        "typ": "image/jls"
+    },
+    {
+        "ext": "jlt",
+        "typ": "application/vnd.hp-jlyt"
+    },
+    {
+        "ext": "jng",
+        "typ": "image/x-jng"
+    },
+    {
+        "ext": "jnlp",
+        "typ": "application/x-java-jnlp-file"
+    },
+    {
+        "ext": "joda",
+        "typ": "application/vnd.joost.joda-archive"
+    },
+    {
+        "ext": "jp2",
+        "typ": "image/jp2"
+    },
+    {
+        "ext": "jpe",
+        "typ": "image/jpeg"
+    },
+    {
+        "ext": "jpeg",
+        "typ": "image/jpeg"
+    },
+    {
+        "ext": "jpf",
+        "typ": "image/jpx"
+    },
+    {
+        "ext": "jpg",
+        "typ": "image/jpeg"
+    },
+    {
+        "ext": "jpg2",
+        "typ": "image/jp2"
+    },
+    {
+        "ext": "jpgm",
+        "typ": "video/jpm"
+    },
+    {
+        "ext": "jpgv",
+        "typ": "video/jpeg"
+    },
+    {
+        "ext": "jph",
+        "typ": "image/jph"
+    },
+    {
+        "ext": "jpm",
+        "typ": "video/jpm"
+    },
+    {
+        "ext": "jpx",
+        "typ": "image/jpx"
+    },
+    {
+        "ext": "js",
+        "typ": "application/javascript"
+    },
+    {
+        "ext": "json",
+        "typ": "application/json"
+    },
+    {
+        "ext": "json5",
+        "typ": "application/json5"
+    },
+    {
+        "ext": "jsonld",
+        "typ": "application/ld+json"
+    },
+    {
+        "ext": "jsonml",
+        "typ": "application/jsonml+json"
+    },
+    {
+        "ext": "jsx",
+        "typ": "text/jsx"
+    },
+    {
+        "ext": "jxr",
+        "typ": "image/jxr"
+    },
+    {
+        "ext": "jxra",
+        "typ": "image/jxra"
+    },
+    {
+        "ext": "jxrs",
+        "typ": "image/jxrs"
+    },
+    {
+        "ext": "jxs",
+        "typ": "image/jxs"
+    },
+    {
+        "ext": "jxsc",
+        "typ": "image/jxsc"
+    },
+    {
+        "ext": "jxsi",
+        "typ": "image/jxsi"
+    },
+    {
+        "ext": "jxss",
+        "typ": "image/jxss"
+    },
+    {
+        "ext": "kar",
+        "typ": "audio/midi"
+    },
+    {
+        "ext": "karbon",
+        "typ": "application/vnd.kde.karbon"
+    },
+    {
+        "ext": "kdbx",
+        "typ": "application/x-keepass2"
+    },
+    {
+        "ext": "key",
+        "typ": "application/x-iwork-keynote-sffkey"
+    },
+    {
+        "ext": "kfo",
+        "typ": "application/vnd.kde.kformula"
+    },
+    {
+        "ext": "kia",
+        "typ": "application/vnd.kidspiration"
+    },
+    {
+        "ext": "kml",
+        "typ": "application/vnd.google-earth.kml+xml"
+    },
+    {
+        "ext": "kmz",
+        "typ": "application/vnd.google-earth.kmz"
+    },
+    {
+        "ext": "kne",
+        "typ": "application/vnd.kinar"
+    },
+    {
+        "ext": "knp",
+        "typ": "application/vnd.kinar"
+    },
+    {
+        "ext": "kon",
+        "typ": "application/vnd.kde.kontour"
+    },
+    {
+        "ext": "kpr",
+        "typ": "application/vnd.kde.kpresenter"
+    },
+    {
+        "ext": "kpt",
+        "typ": "application/vnd.kde.kpresenter"
+    },
+    {
+        "ext": "kpxx",
+        "typ": "application/vnd.ds-keypoint"
+    },
+    {
+        "ext": "ksp",
+        "typ": "application/vnd.kde.kspread"
+    },
+    {
+        "ext": "ktr",
+        "typ": "application/vnd.kahootz"
+    },
+    {
+        "ext": "ktx",
+        "typ": "image/ktx"
+    },
+    {
+        "ext": "ktx2",
+        "typ": "image/ktx2"
+    },
+    {
+        "ext": "ktz",
+        "typ": "application/vnd.kahootz"
+    },
+    {
+        "ext": "kwd",
+        "typ": "application/vnd.kde.kword"
+    },
+    {
+        "ext": "kwt",
+        "typ": "application/vnd.kde.kword"
+    },
+    {
+        "ext": "lasxml",
+        "typ": "application/vnd.las.las+xml"
+    },
+    {
+        "ext": "latex",
+        "typ": "application/x-latex"
+    },
+    {
+        "ext": "lbd",
+        "typ": "application/vnd.llamagraphics.life-balance.desktop"
+    },
+    {
+        "ext": "lbe",
+        "typ": "application/vnd.llamagraphics.life-balance.exchange+xml"
+    },
+    {
+        "ext": "les",
+        "typ": "application/vnd.hhe.lesson-player"
+    },
+    {
+        "ext": "less",
+        "typ": "text/less"
+    },
+    {
+        "ext": "lgr",
+        "typ": "application/lgr+xml"
+    },
+    {
+        "ext": "lha",
+        "typ": "application/x-lzh-compressed"
+    },
+    {
+        "ext": "link66",
+        "typ": "application/vnd.route66.link66+xml"
+    },
+    {
+        "ext": "list",
+        "typ": "text/plain"
+    },
+    {
+        "ext": "list3820",
+        "typ": "application/vnd.ibm.modcap"
+    },
+    {
+        "ext": "listafp",
+        "typ": "application/vnd.ibm.modcap"
+    },
+    {
+        "ext": "litcoffee",
+        "typ": "text/coffeescript"
+    },
+    {
+        "ext": "lnk",
+        "typ": "application/x-ms-shortcut"
+    },
+    {
+        "ext": "log",
+        "typ": "text/plain"
+    },
+    {
+        "ext": "lostxml",
+        "typ": "application/lost+xml"
+    },
+    {
+        "ext": "lrf",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "lrm",
+        "typ": "application/vnd.ms-lrm"
+    },
+    {
+        "ext": "ltf",
+        "typ": "application/vnd.frogans.ltf"
+    },
+    {
+        "ext": "lua",
+        "typ": "text/x-lua"
+    },
+    {
+        "ext": "luac",
+        "typ": "application/x-lua-bytecode"
+    },
+    {
+        "ext": "lvp",
+        "typ": "audio/vnd.lucent.voice"
+    },
+    {
+        "ext": "lwp",
+        "typ": "application/vnd.lotus-wordpro"
+    },
+    {
+        "ext": "lzh",
+        "typ": "application/x-lzh-compressed"
+    },
+    {
+        "ext": "m13",
+        "typ": "application/x-msmediaview"
+    },
+    {
+        "ext": "m14",
+        "typ": "application/x-msmediaview"
+    },
+    {
+        "ext": "m1v",
+        "typ": "video/mpeg"
+    },
+    {
+        "ext": "m21",
+        "typ": "application/mp21"
+    },
+    {
+        "ext": "m2a",
+        "typ": "audio/mpeg"
+    },
+    {
+        "ext": "m2v",
+        "typ": "video/mpeg"
+    },
+    {
+        "ext": "m3a",
+        "typ": "audio/mpeg"
+    },
+    {
+        "ext": "m3u",
+        "typ": "audio/x-mpegurl"
+    },
+    {
+        "ext": "m3u8",
+        "typ": "application/vnd.apple.mpegurl"
+    },
+    {
+        "ext": "m4a",
+        "typ": "audio/x-m4a"
+    },
+    {
+        "ext": "m4p",
+        "typ": "application/mp4"
+    },
+    {
+        "ext": "m4s",
+        "typ": "video/iso.segment"
+    },
+    {
+        "ext": "m4u",
+        "typ": "video/vnd.mpegurl"
+    },
+    {
+        "ext": "m4v",
+        "typ": "video/x-m4v"
+    },
+    {
+        "ext": "ma",
+        "typ": "application/mathematica"
+    },
+    {
+        "ext": "mads",
+        "typ": "application/mads+xml"
+    },
+    {
+        "ext": "maei",
+        "typ": "application/mmt-aei+xml"
+    },
+    {
+        "ext": "mag",
+        "typ": "application/vnd.ecowin.chart"
+    },
+    {
+        "ext": "maker",
+        "typ": "application/vnd.framemaker"
+    },
+    {
+        "ext": "man",
+        "typ": "text/troff"
+    },
+    {
+        "ext": "manifest",
+        "typ": "text/cache-manifest"
+    },
+    {
+        "ext": "map",
+        "typ": "application/json"
+    },
+    {
+        "ext": "mar",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "markdown",
+        "typ": "text/markdown"
+    },
+    {
+        "ext": "mathml",
+        "typ": "application/mathml+xml"
+    },
+    {
+        "ext": "mb",
+        "typ": "application/mathematica"
+    },
+    {
+        "ext": "mbk",
+        "typ": "application/vnd.mobius.mbk"
+    },
+    {
+        "ext": "mbox",
+        "typ": "application/mbox"
+    },
+    {
+        "ext": "mc1",
+        "typ": "application/vnd.medcalcdata"
+    },
+    {
+        "ext": "mcd",
+        "typ": "application/vnd.mcd"
+    },
+    {
+        "ext": "mcurl",
+        "typ": "text/vnd.curl.mcurl"
+    },
+    {
+        "ext": "md",
+        "typ": "text/markdown"
+    },
+    {
+        "ext": "mdb",
+        "typ": "application/x-msaccess"
+    },
+    {
+        "ext": "mdi",
+        "typ": "image/vnd.ms-modi"
+    },
+    {
+        "ext": "mdx",
+        "typ": "text/mdx"
+    },
+    {
+        "ext": "me",
+        "typ": "text/troff"
+    },
+    {
+        "ext": "mesh",
+        "typ": "model/mesh"
+    },
+    {
+        "ext": "meta4",
+        "typ": "application/metalink4+xml"
+    },
+    {
+        "ext": "metalink",
+        "typ": "application/metalink+xml"
+    },
+    {
+        "ext": "mets",
+        "typ": "application/mets+xml"
+    },
+    {
+        "ext": "mfm",
+        "typ": "application/vnd.mfmp"
+    },
+    {
+        "ext": "mft",
+        "typ": "application/rpki-manifest"
+    },
+    {
+        "ext": "mgp",
+        "typ": "application/vnd.osgeo.mapguide.package"
+    },
+    {
+        "ext": "mgz",
+        "typ": "application/vnd.proteus.magazine"
+    },
+    {
+        "ext": "mid",
+        "typ": "audio/midi"
+    },
+    {
+        "ext": "midi",
+        "typ": "audio/midi"
+    },
+    {
+        "ext": "mie",
+        "typ": "application/x-mie"
+    },
+    {
+        "ext": "mif",
+        "typ": "application/vnd.mif"
+    },
+    {
+        "ext": "mime",
+        "typ": "message/rfc822"
+    },
+    {
+        "ext": "mj2",
+        "typ": "video/mj2"
+    },
+    {
+        "ext": "mjp2",
+        "typ": "video/mj2"
+    },
+    {
+        "ext": "mjs",
+        "typ": "application/javascript"
+    },
+    {
+        "ext": "mk3d",
+        "typ": "video/x-matroska"
+    },
+    {
+        "ext": "mka",
+        "typ": "audio/x-matroska"
+    },
+    {
+        "ext": "mkd",
+        "typ": "text/x-markdown"
+    },
+    {
+        "ext": "mks",
+        "typ": "video/x-matroska"
+    },
+    {
+        "ext": "mkv",
+        "typ": "video/x-matroska"
+    },
+    {
+        "ext": "mlp",
+        "typ": "application/vnd.dolby.mlp"
+    },
+    {
+        "ext": "mmd",
+        "typ": "application/vnd.chipnuts.karaoke-mmd"
+    },
+    {
+        "ext": "mmf",
+        "typ": "application/vnd.smaf"
+    },
+    {
+        "ext": "mml",
+        "typ": "text/mathml"
+    },
+    {
+        "ext": "mmr",
+        "typ": "image/vnd.fujixerox.edmics-mmr"
+    },
+    {
+        "ext": "mng",
+        "typ": "video/x-mng"
+    },
+    {
+        "ext": "mny",
+        "typ": "application/x-msmoney"
+    },
+    {
+        "ext": "mobi",
+        "typ": "application/x-mobipocket-ebook"
+    },
+    {
+        "ext": "mods",
+        "typ": "application/mods+xml"
+    },
+    {
+        "ext": "mov",
+        "typ": "video/quicktime"
+    },
+    {
+        "ext": "movie",
+        "typ": "video/x-sgi-movie"
+    },
+    {
+        "ext": "mp2",
+        "typ": "audio/mpeg"
+    },
+    {
+        "ext": "mp21",
+        "typ": "application/mp21"
+    },
+    {
+        "ext": "mp2a",
+        "typ": "audio/mpeg"
+    },
+    {
+        "ext": "mp3",
+        "typ": "audio/mpeg"
+    },
+    {
+        "ext": "mp4",
+        "typ": "video/mp4"
+    },
+    {
+        "ext": "mp4a",
+        "typ": "audio/mp4"
+    },
+    {
+        "ext": "mp4s",
+        "typ": "application/mp4"
+    },
+    {
+        "ext": "mp4v",
+        "typ": "video/mp4"
+    },
+    {
+        "ext": "mpc",
+        "typ": "application/vnd.mophun.certificate"
+    },
+    {
+        "ext": "mpd",
+        "typ": "application/dash+xml"
+    },
+    {
+        "ext": "mpe",
+        "typ": "video/mpeg"
+    },
+    {
+        "ext": "mpeg",
+        "typ": "video/mpeg"
+    },
+    {
+        "ext": "mpg",
+        "typ": "video/mpeg"
+    },
+    {
+        "ext": "mpg4",
+        "typ": "video/mp4"
+    },
+    {
+        "ext": "mpga",
+        "typ": "audio/mpeg"
+    },
+    {
+        "ext": "mpkg",
+        "typ": "application/vnd.apple.installer+xml"
+    },
+    {
+        "ext": "mpm",
+        "typ": "application/vnd.blueice.multipass"
+    },
+    {
+        "ext": "mpn",
+        "typ": "application/vnd.mophun.application"
+    },
+    {
+        "ext": "mpp",
+        "typ": "application/vnd.ms-project"
+    },
+    {
+        "ext": "mpt",
+        "typ": "application/vnd.ms-project"
+    },
+    {
+        "ext": "mpy",
+        "typ": "application/vnd.ibm.minipay"
+    },
+    {
+        "ext": "mqy",
+        "typ": "application/vnd.mobius.mqy"
+    },
+    {
+        "ext": "mrc",
+        "typ": "application/marc"
+    },
+    {
+        "ext": "mrcx",
+        "typ": "application/marcxml+xml"
+    },
+    {
+        "ext": "ms",
+        "typ": "text/troff"
+    },
+    {
+        "ext": "mscml",
+        "typ": "application/mediaservercontrol+xml"
+    },
+    {
+        "ext": "mseed",
+        "typ": "application/vnd.fdsn.mseed"
+    },
+    {
+        "ext": "mseq",
+        "typ": "application/vnd.mseq"
+    },
+    {
+        "ext": "msf",
+        "typ": "application/vnd.epson.msf"
+    },
+    {
+        "ext": "msg",
+        "typ": "application/vnd.ms-outlook"
+    },
+    {
+        "ext": "msh",
+        "typ": "model/mesh"
+    },
+    {
+        "ext": "msi",
+        "typ": "application/x-msdownload"
+    },
+    {
+        "ext": "msl",
+        "typ": "application/vnd.mobius.msl"
+    },
+    {
+        "ext": "msm",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "msp",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "msty",
+        "typ": "application/vnd.muvee.style"
+    },
+    {
+        "ext": "mtl",
+        "typ": "model/mtl"
+    },
+    {
+        "ext": "mts",
+        "typ": "model/vnd.mts"
+    },
+    {
+        "ext": "mus",
+        "typ": "application/vnd.musician"
+    },
+    {
+        "ext": "musd",
+        "typ": "application/mmt-usd+xml"
+    },
+    {
+        "ext": "musicxml",
+        "typ": "application/vnd.recordare.musicxml+xml"
+    },
+    {
+        "ext": "mvb",
+        "typ": "application/x-msmediaview"
+    },
+    {
+        "ext": "mvt",
+        "typ": "application/vnd.mapbox-vector-tile"
+    },
+    {
+        "ext": "mwf",
+        "typ": "application/vnd.mfer"
+    },
+    {
+        "ext": "mxf",
+        "typ": "application/mxf"
+    },
+    {
+        "ext": "mxl",
+        "typ": "application/vnd.recordare.musicxml"
+    },
+    {
+        "ext": "mxmf",
+        "typ": "audio/mobile-xmf"
+    },
+    {
+        "ext": "mxml",
+        "typ": "application/xv+xml"
+    },
+    {
+        "ext": "mxs",
+        "typ": "application/vnd.triscape.mxs"
+    },
+    {
+        "ext": "mxu",
+        "typ": "video/vnd.mpegurl"
+    },
+    {
+        "ext": "n-gage",
+        "typ": "application/vnd.nokia.n-gage.symbian.install"
+    },
+    {
+        "ext": "n3",
+        "typ": "text/n3"
+    },
+    {
+        "ext": "nb",
+        "typ": "application/mathematica"
+    },
+    {
+        "ext": "nbp",
+        "typ": "application/vnd.wolfram.player"
+    },
+    {
+        "ext": "nc",
+        "typ": "application/x-netcdf"
+    },
+    {
+        "ext": "ncx",
+        "typ": "application/x-dtbncx+xml"
+    },
+    {
+        "ext": "nfo",
+        "typ": "text/x-nfo"
+    },
+    {
+        "ext": "ngdat",
+        "typ": "application/vnd.nokia.n-gage.data"
+    },
+    {
+        "ext": "nitf",
+        "typ": "application/vnd.nitf"
+    },
+    {
+        "ext": "nlu",
+        "typ": "application/vnd.neurolanguage.nlu"
+    },
+    {
+        "ext": "nml",
+        "typ": "application/vnd.enliven"
+    },
+    {
+        "ext": "nnd",
+        "typ": "application/vnd.noblenet-directory"
+    },
+    {
+        "ext": "nns",
+        "typ": "application/vnd.noblenet-sealer"
+    },
+    {
+        "ext": "nnw",
+        "typ": "application/vnd.noblenet-web"
+    },
+    {
+        "ext": "npx",
+        "typ": "image/vnd.net-fpx"
+    },
+    {
+        "ext": "nq",
+        "typ": "application/n-quads"
+    },
+    {
+        "ext": "nsc",
+        "typ": "application/x-conference"
+    },
+    {
+        "ext": "nsf",
+        "typ": "application/vnd.lotus-notes"
+    },
+    {
+        "ext": "nt",
+        "typ": "application/n-triples"
+    },
+    {
+        "ext": "ntf",
+        "typ": "application/vnd.nitf"
+    },
+    {
+        "ext": "numbers",
+        "typ": "application/x-iwork-numbers-sffnumbers"
+    },
+    {
+        "ext": "nzb",
+        "typ": "application/x-nzb"
+    },
+    {
+        "ext": "oa2",
+        "typ": "application/vnd.fujitsu.oasys2"
+    },
+    {
+        "ext": "oa3",
+        "typ": "application/vnd.fujitsu.oasys3"
+    },
+    {
+        "ext": "oas",
+        "typ": "application/vnd.fujitsu.oasys"
+    },
+    {
+        "ext": "obd",
+        "typ": "application/x-msbinder"
+    },
+    {
+        "ext": "obgx",
+        "typ": "application/vnd.openblox.game+xml"
+    },
+    {
+        "ext": "obj",
+        "typ": "model/obj"
+    },
+    {
+        "ext": "oda",
+        "typ": "application/oda"
+    },
+    {
+        "ext": "odb",
+        "typ": "application/vnd.oasis.opendocument.database"
+    },
+    {
+        "ext": "odc",
+        "typ": "application/vnd.oasis.opendocument.chart"
+    },
+    {
+        "ext": "odf",
+        "typ": "application/vnd.oasis.opendocument.formula"
+    },
+    {
+        "ext": "odft",
+        "typ": "application/vnd.oasis.opendocument.formula-template"
+    },
+    {
+        "ext": "odg",
+        "typ": "application/vnd.oasis.opendocument.graphics"
+    },
+    {
+        "ext": "odi",
+        "typ": "application/vnd.oasis.opendocument.image"
+    },
+    {
+        "ext": "odm",
+        "typ": "application/vnd.oasis.opendocument.text-master"
+    },
+    {
+        "ext": "odp",
+        "typ": "application/vnd.oasis.opendocument.presentation"
+    },
+    {
+        "ext": "ods",
+        "typ": "application/vnd.oasis.opendocument.spreadsheet"
+    },
+    {
+        "ext": "odt",
+        "typ": "application/vnd.oasis.opendocument.text"
+    },
+    {
+        "ext": "oga",
+        "typ": "audio/ogg"
+    },
+    {
+        "ext": "ogex",
+        "typ": "model/vnd.opengex"
+    },
+    {
+        "ext": "ogg",
+        "typ": "audio/ogg"
+    },
+    {
+        "ext": "ogv",
+        "typ": "video/ogg"
+    },
+    {
+        "ext": "ogx",
+        "typ": "application/ogg"
+    },
+    {
+        "ext": "omdoc",
+        "typ": "application/omdoc+xml"
+    },
+    {
+        "ext": "onepkg",
+        "typ": "application/onenote"
+    },
+    {
+        "ext": "onetmp",
+        "typ": "application/onenote"
+    },
+    {
+        "ext": "onetoc",
+        "typ": "application/onenote"
+    },
+    {
+        "ext": "onetoc2",
+        "typ": "application/onenote"
+    },
+    {
+        "ext": "opf",
+        "typ": "application/oebps-package+xml"
+    },
+    {
+        "ext": "opml",
+        "typ": "text/x-opml"
+    },
+    {
+        "ext": "oprc",
+        "typ": "application/vnd.palm"
+    },
+    {
+        "ext": "opus",
+        "typ": "audio/ogg"
+    },
+    {
+        "ext": "org",
+        "typ": "text/x-org"
+    },
+    {
+        "ext": "osf",
+        "typ": "application/vnd.yamaha.openscoreformat"
+    },
+    {
+        "ext": "osfpvg",
+        "typ": "application/vnd.yamaha.openscoreformat.osfpvg+xml"
+    },
+    {
+        "ext": "osm",
+        "typ": "application/vnd.openstreetmap.data+xml"
+    },
+    {
+        "ext": "otc",
+        "typ": "application/vnd.oasis.opendocument.chart-template"
+    },
+    {
+        "ext": "otf",
+        "typ": "font/otf"
+    },
+    {
+        "ext": "otg",
+        "typ": "application/vnd.oasis.opendocument.graphics-template"
+    },
+    {
+        "ext": "oth",
+        "typ": "application/vnd.oasis.opendocument.text-web"
+    },
+    {
+        "ext": "oti",
+        "typ": "application/vnd.oasis.opendocument.image-template"
+    },
+    {
+        "ext": "otp",
+        "typ": "application/vnd.oasis.opendocument.presentation-template"
+    },
+    {
+        "ext": "ots",
+        "typ": "application/vnd.oasis.opendocument.spreadsheet-template"
+    },
+    {
+        "ext": "ott",
+        "typ": "application/vnd.oasis.opendocument.text-template"
+    },
+    {
+        "ext": "ova",
+        "typ": "application/x-virtualbox-ova"
+    },
+    {
+        "ext": "ovf",
+        "typ": "application/x-virtualbox-ovf"
+    },
+    {
+        "ext": "owl",
+        "typ": "application/rdf+xml"
+    },
+    {
+        "ext": "oxps",
+        "typ": "application/oxps"
+    },
+    {
+        "ext": "oxt",
+        "typ": "application/vnd.openofficeorg.extension"
+    },
+    {
+        "ext": "p",
+        "typ": "text/x-pascal"
+    },
+    {
+        "ext": "p10",
+        "typ": "application/pkcs10"
+    },
+    {
+        "ext": "p12",
+        "typ": "application/x-pkcs12"
+    },
+    {
+        "ext": "p7b",
+        "typ": "application/x-pkcs7-certificates"
+    },
+    {
+        "ext": "p7c",
+        "typ": "application/pkcs7-mime"
+    },
+    {
+        "ext": "p7m",
+        "typ": "application/pkcs7-mime"
+    },
+    {
+        "ext": "p7r",
+        "typ": "application/x-pkcs7-certreqresp"
+    },
+    {
+        "ext": "p7s",
+        "typ": "application/pkcs7-signature"
+    },
+    {
+        "ext": "p8",
+        "typ": "application/pkcs8"
+    },
+    {
+        "ext": "pac",
+        "typ": "application/x-ns-proxy-autoconfig"
+    },
+    {
+        "ext": "pages",
+        "typ": "application/x-iwork-pages-sffpages"
+    },
+    {
+        "ext": "pas",
+        "typ": "text/x-pascal"
+    },
+    {
+        "ext": "paw",
+        "typ": "application/vnd.pawaafile"
+    },
+    {
+        "ext": "pbd",
+        "typ": "application/vnd.powerbuilder6"
+    },
+    {
+        "ext": "pbm",
+        "typ": "image/x-portable-bitmap"
+    },
+    {
+        "ext": "pcap",
+        "typ": "application/vnd.tcpdump.pcap"
+    },
+    {
+        "ext": "pcf",
+        "typ": "application/x-font-pcf"
+    },
+    {
+        "ext": "pcl",
+        "typ": "application/vnd.hp-pcl"
+    },
+    {
+        "ext": "pclxl",
+        "typ": "application/vnd.hp-pclxl"
+    },
+    {
+        "ext": "pct",
+        "typ": "image/x-pict"
+    },
+    {
+        "ext": "pcurl",
+        "typ": "application/vnd.curl.pcurl"
+    },
+    {
+        "ext": "pcx",
+        "typ": "image/x-pcx"
+    },
+    {
+        "ext": "pdb",
+        "typ": "application/x-pilot"
+    },
+    {
+        "ext": "pde",
+        "typ": "text/x-processing"
+    },
+    {
+        "ext": "pdf",
+        "typ": "application/pdf"
+    },
+    {
+        "ext": "pem",
+        "typ": "application/x-x509-ca-cert"
+    },
+    {
+        "ext": "pfa",
+        "typ": "application/x-font-type1"
+    },
+    {
+        "ext": "pfb",
+        "typ": "application/x-font-type1"
+    },
+    {
+        "ext": "pfm",
+        "typ": "application/x-font-type1"
+    },
+    {
+        "ext": "pfr",
+        "typ": "application/font-tdpfr"
+    },
+    {
+        "ext": "pfx",
+        "typ": "application/x-pkcs12"
+    },
+    {
+        "ext": "pgm",
+        "typ": "image/x-portable-graymap"
+    },
+    {
+        "ext": "pgn",
+        "typ": "application/x-chess-pgn"
+    },
+    {
+        "ext": "pgp",
+        "typ": "application/pgp-encrypted"
+    },
+    {
+        "ext": "php",
+        "typ": "application/x-httpd-php"
+    },
+    {
+        "ext": "pic",
+        "typ": "image/x-pict"
+    },
+    {
+        "ext": "pkg",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "pki",
+        "typ": "application/pkixcmp"
+    },
+    {
+        "ext": "pkipath",
+        "typ": "application/pkix-pkipath"
+    },
+    {
+        "ext": "pkpass",
+        "typ": "application/vnd.apple.pkpass"
+    },
+    {
+        "ext": "pl",
+        "typ": "application/x-perl"
+    },
+    {
+        "ext": "plb",
+        "typ": "application/vnd.3gpp.pic-bw-large"
+    },
+    {
+        "ext": "plc",
+        "typ": "application/vnd.mobius.plc"
+    },
+    {
+        "ext": "plf",
+        "typ": "application/vnd.pocketlearn"
+    },
+    {
+        "ext": "pls",
+        "typ": "application/pls+xml"
+    },
+    {
+        "ext": "pm",
+        "typ": "application/x-perl"
+    },
+    {
+        "ext": "pml",
+        "typ": "application/vnd.ctc-posml"
+    },
+    {
+        "ext": "png",
+        "typ": "image/png"
+    },
+    {
+        "ext": "pnm",
+        "typ": "image/x-portable-anymap"
+    },
+    {
+        "ext": "portpkg",
+        "typ": "application/vnd.macports.portpkg"
+    },
+    {
+        "ext": "pot",
+        "typ": "application/vnd.ms-powerpoint"
+    },
+    {
+        "ext": "potm",
+        "typ": "application/vnd.ms-powerpoint.template.macroenabled.12"
+    },
+    {
+        "ext": "potx",
+        "typ": "application/vnd.openxmlformats-officedocument.presentationml.template"
+    },
+    {
+        "ext": "ppam",
+        "typ": "application/vnd.ms-powerpoint.addin.macroenabled.12"
+    },
+    {
+        "ext": "ppd",
+        "typ": "application/vnd.cups-ppd"
+    },
+    {
+        "ext": "ppm",
+        "typ": "image/x-portable-pixmap"
+    },
+    {
+        "ext": "pps",
+        "typ": "application/vnd.ms-powerpoint"
+    },
+    {
+        "ext": "ppsm",
+        "typ": "application/vnd.ms-powerpoint.slideshow.macroenabled.12"
+    },
+    {
+        "ext": "ppsx",
+        "typ": "application/vnd.openxmlformats-officedocument.presentationml.slideshow"
+    },
+    {
+        "ext": "ppt",
+        "typ": "application/vnd.ms-powerpoint"
+    },
+    {
+        "ext": "pptm",
+        "typ": "application/vnd.ms-powerpoint.presentation.macroenabled.12"
+    },
+    {
+        "ext": "pptx",
+        "typ": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    },
+    {
+        "ext": "pqa",
+        "typ": "application/vnd.palm"
+    },
+    {
+        "ext": "prc",
+        "typ": "application/x-pilot"
+    },
+    {
+        "ext": "pre",
+        "typ": "application/vnd.lotus-freelance"
+    },
+    {
+        "ext": "prf",
+        "typ": "application/pics-rules"
+    },
+    {
+        "ext": "provx",
+        "typ": "application/provenance+xml"
+    },
+    {
+        "ext": "ps",
+        "typ": "application/postscript"
+    },
+    {
+        "ext": "psb",
+        "typ": "application/vnd.3gpp.pic-bw-small"
+    },
+    {
+        "ext": "psd",
+        "typ": "image/vnd.adobe.photoshop"
+    },
+    {
+        "ext": "psf",
+        "typ": "application/x-font-linux-psf"
+    },
+    {
+        "ext": "pskcxml",
+        "typ": "application/pskc+xml"
+    },
+    {
+        "ext": "pti",
+        "typ": "image/prs.pti"
+    },
+    {
+        "ext": "ptid",
+        "typ": "application/vnd.pvi.ptid1"
+    },
+    {
+        "ext": "pub",
+        "typ": "application/x-mspublisher"
+    },
+    {
+        "ext": "pvb",
+        "typ": "application/vnd.3gpp.pic-bw-var"
+    },
+    {
+        "ext": "pwn",
+        "typ": "application/vnd.3m.post-it-notes"
+    },
+    {
+        "ext": "pya",
+        "typ": "audio/vnd.ms-playready.media.pya"
+    },
+    {
+        "ext": "pyv",
+        "typ": "video/vnd.ms-playready.media.pyv"
+    },
+    {
+        "ext": "qam",
+        "typ": "application/vnd.epson.quickanime"
+    },
+    {
+        "ext": "qbo",
+        "typ": "application/vnd.intu.qbo"
+    },
+    {
+        "ext": "qfx",
+        "typ": "application/vnd.intu.qfx"
+    },
+    {
+        "ext": "qps",
+        "typ": "application/vnd.publishare-delta-tree"
+    },
+    {
+        "ext": "qt",
+        "typ": "video/quicktime"
+    },
+    {
+        "ext": "qwd",
+        "typ": "application/vnd.quark.quarkxpress"
+    },
+    {
+        "ext": "qwt",
+        "typ": "application/vnd.quark.quarkxpress"
+    },
+    {
+        "ext": "qxb",
+        "typ": "application/vnd.quark.quarkxpress"
+    },
+    {
+        "ext": "qxd",
+        "typ": "application/vnd.quark.quarkxpress"
+    },
+    {
+        "ext": "qxl",
+        "typ": "application/vnd.quark.quarkxpress"
+    },
+    {
+        "ext": "qxt",
+        "typ": "application/vnd.quark.quarkxpress"
+    },
+    {
+        "ext": "ra",
+        "typ": "audio/x-realaudio"
+    },
+    {
+        "ext": "ram",
+        "typ": "audio/x-pn-realaudio"
+    },
+    {
+        "ext": "raml",
+        "typ": "application/raml+yaml"
+    },
+    {
+        "ext": "rapd",
+        "typ": "application/route-apd+xml"
+    },
+    {
+        "ext": "rar",
+        "typ": "application/x-rar-compressed"
+    },
+    {
+        "ext": "ras",
+        "typ": "image/x-cmu-raster"
+    },
+    {
+        "ext": "rcprofile",
+        "typ": "application/vnd.ipunplugged.rcprofile"
+    },
+    {
+        "ext": "rdf",
+        "typ": "application/rdf+xml"
+    },
+    {
+        "ext": "rdz",
+        "typ": "application/vnd.data-vision.rdz"
+    },
+    {
+        "ext": "relo",
+        "typ": "application/p2p-overlay+xml"
+    },
+    {
+        "ext": "rep",
+        "typ": "application/vnd.businessobjects"
+    },
+    {
+        "ext": "res",
+        "typ": "application/x-dtbresource+xml"
+    },
+    {
+        "ext": "rgb",
+        "typ": "image/x-rgb"
+    },
+    {
+        "ext": "rif",
+        "typ": "application/reginfo+xml"
+    },
+    {
+        "ext": "rip",
+        "typ": "audio/vnd.rip"
+    },
+    {
+        "ext": "ris",
+        "typ": "application/x-research-info-systems"
+    },
+    {
+        "ext": "rl",
+        "typ": "application/resource-lists+xml"
+    },
+    {
+        "ext": "rlc",
+        "typ": "image/vnd.fujixerox.edmics-rlc"
+    },
+    {
+        "ext": "rld",
+        "typ": "application/resource-lists-diff+xml"
+    },
+    {
+        "ext": "rm",
+        "typ": "application/vnd.rn-realmedia"
+    },
+    {
+        "ext": "rmi",
+        "typ": "audio/midi"
+    },
+    {
+        "ext": "rmp",
+        "typ": "audio/x-pn-realaudio-plugin"
+    },
+    {
+        "ext": "rms",
+        "typ": "application/vnd.jcp.javame.midlet-rms"
+    },
+    {
+        "ext": "rmvb",
+        "typ": "application/vnd.rn-realmedia-vbr"
+    },
+    {
+        "ext": "rnc",
+        "typ": "application/relax-ng-compact-syntax"
+    },
+    {
+        "ext": "rng",
+        "typ": "application/xml"
+    },
+    {
+        "ext": "roa",
+        "typ": "application/rpki-roa"
+    },
+    {
+        "ext": "roff",
+        "typ": "text/troff"
+    },
+    {
+        "ext": "rp9",
+        "typ": "application/vnd.cloanto.rp9"
+    },
+    {
+        "ext": "rpm",
+        "typ": "application/x-redhat-package-manager"
+    },
+    {
+        "ext": "rpss",
+        "typ": "application/vnd.nokia.radio-presets"
+    },
+    {
+        "ext": "rpst",
+        "typ": "application/vnd.nokia.radio-preset"
+    },
+    {
+        "ext": "rq",
+        "typ": "application/sparql-query"
+    },
+    {
+        "ext": "rs",
+        "typ": "application/rls-services+xml"
+    },
+    {
+        "ext": "rsat",
+        "typ": "application/atsc-rsat+xml"
+    },
+    {
+        "ext": "rsd",
+        "typ": "application/rsd+xml"
+    },
+    {
+        "ext": "rsheet",
+        "typ": "application/urc-ressheet+xml"
+    },
+    {
+        "ext": "rss",
+        "typ": "application/rss+xml"
+    },
+    {
+        "ext": "rtf",
+        "typ": "text/rtf"
+    },
+    {
+        "ext": "rtx",
+        "typ": "text/richtext"
+    },
+    {
+        "ext": "run",
+        "typ": "application/x-makeself"
+    },
+    {
+        "ext": "rusd",
+        "typ": "application/route-usd+xml"
+    },
+    {
+        "ext": "s",
+        "typ": "text/x-asm"
+    },
+    {
+        "ext": "s3m",
+        "typ": "audio/s3m"
+    },
+    {
+        "ext": "saf",
+        "typ": "application/vnd.yamaha.smaf-audio"
+    },
+    {
+        "ext": "sass",
+        "typ": "text/x-sass"
+    },
+    {
+        "ext": "sbml",
+        "typ": "application/sbml+xml"
+    },
+    {
+        "ext": "sc",
+        "typ": "application/vnd.ibm.secure-container"
+    },
+    {
+        "ext": "scd",
+        "typ": "application/x-msschedule"
+    },
+    {
+        "ext": "scm",
+        "typ": "application/vnd.lotus-screencam"
+    },
+    {
+        "ext": "scq",
+        "typ": "application/scvp-cv-request"
+    },
+    {
+        "ext": "scs",
+        "typ": "application/scvp-cv-response"
+    },
+    {
+        "ext": "scss",
+        "typ": "text/x-scss"
+    },
+    {
+        "ext": "scurl",
+        "typ": "text/vnd.curl.scurl"
+    },
+    {
+        "ext": "sda",
+        "typ": "application/vnd.stardivision.draw"
+    },
+    {
+        "ext": "sdc",
+        "typ": "application/vnd.stardivision.calc"
+    },
+    {
+        "ext": "sdd",
+        "typ": "application/vnd.stardivision.impress"
+    },
+    {
+        "ext": "sdkd",
+        "typ": "application/vnd.solent.sdkm+xml"
+    },
+    {
+        "ext": "sdkm",
+        "typ": "application/vnd.solent.sdkm+xml"
+    },
+    {
+        "ext": "sdp",
+        "typ": "application/sdp"
+    },
+    {
+        "ext": "sdw",
+        "typ": "application/vnd.stardivision.writer"
+    },
+    {
+        "ext": "sea",
+        "typ": "application/x-sea"
+    },
+    {
+        "ext": "see",
+        "typ": "application/vnd.seemail"
+    },
+    {
+        "ext": "seed",
+        "typ": "application/vnd.fdsn.seed"
+    },
+    {
+        "ext": "sema",
+        "typ": "application/vnd.sema"
+    },
+    {
+        "ext": "semd",
+        "typ": "application/vnd.semd"
+    },
+    {
+        "ext": "semf",
+        "typ": "application/vnd.semf"
+    },
+    {
+        "ext": "senmlx",
+        "typ": "application/senml+xml"
+    },
+    {
+        "ext": "sensmlx",
+        "typ": "application/sensml+xml"
+    },
+    {
+        "ext": "ser",
+        "typ": "application/java-serialized-object"
+    },
+    {
+        "ext": "setpay",
+        "typ": "application/set-payment-initiation"
+    },
+    {
+        "ext": "setreg",
+        "typ": "application/set-registration-initiation"
+    },
+    {
+        "ext": "sfd-hdstx",
+        "typ": "application/vnd.hydrostatix.sof-data"
+    },
+    {
+        "ext": "sfs",
+        "typ": "application/vnd.spotfire.sfs"
+    },
+    {
+        "ext": "sfv",
+        "typ": "text/x-sfv"
+    },
+    {
+        "ext": "sgi",
+        "typ": "image/sgi"
+    },
+    {
+        "ext": "sgl",
+        "typ": "application/vnd.stardivision.writer-global"
+    },
+    {
+        "ext": "sgm",
+        "typ": "text/sgml"
+    },
+    {
+        "ext": "sgml",
+        "typ": "text/sgml"
+    },
+    {
+        "ext": "sh",
+        "typ": "application/x-sh"
+    },
+    {
+        "ext": "shar",
+        "typ": "application/x-shar"
+    },
+    {
+        "ext": "shex",
+        "typ": "text/shex"
+    },
+    {
+        "ext": "shf",
+        "typ": "application/shf+xml"
+    },
+    {
+        "ext": "shtml",
+        "typ": "text/html"
+    },
+    {
+        "ext": "sid",
+        "typ": "image/x-mrsid-image"
+    },
+    {
+        "ext": "sieve",
+        "typ": "application/sieve"
+    },
+    {
+        "ext": "sig",
+        "typ": "application/pgp-signature"
+    },
+    {
+        "ext": "sil",
+        "typ": "audio/silk"
+    },
+    {
+        "ext": "silo",
+        "typ": "model/mesh"
+    },
+    {
+        "ext": "sis",
+        "typ": "application/vnd.symbian.install"
+    },
+    {
+        "ext": "sisx",
+        "typ": "application/vnd.symbian.install"
+    },
+    {
+        "ext": "sit",
+        "typ": "application/x-stuffit"
+    },
+    {
+        "ext": "sitx",
+        "typ": "application/x-stuffitx"
+    },
+    {
+        "ext": "siv",
+        "typ": "application/sieve"
+    },
+    {
+        "ext": "skd",
+        "typ": "application/vnd.koan"
+    },
+    {
+        "ext": "skm",
+        "typ": "application/vnd.koan"
+    },
+    {
+        "ext": "skp",
+        "typ": "application/vnd.koan"
+    },
+    {
+        "ext": "skt",
+        "typ": "application/vnd.koan"
+    },
+    {
+        "ext": "sldm",
+        "typ": "application/vnd.ms-powerpoint.slide.macroenabled.12"
+    },
+    {
+        "ext": "sldx",
+        "typ": "application/vnd.openxmlformats-officedocument.presentationml.slide"
+    },
+    {
+        "ext": "slim",
+        "typ": "text/slim"
+    },
+    {
+        "ext": "slm",
+        "typ": "text/slim"
+    },
+    {
+        "ext": "sls",
+        "typ": "application/route-s-tsid+xml"
+    },
+    {
+        "ext": "slt",
+        "typ": "application/vnd.epson.salt"
+    },
+    {
+        "ext": "sm",
+        "typ": "application/vnd.stepmania.stepchart"
+    },
+    {
+        "ext": "smf",
+        "typ": "application/vnd.stardivision.math"
+    },
+    {
+        "ext": "smi",
+        "typ": "application/smil+xml"
+    },
+    {
+        "ext": "smil",
+        "typ": "application/smil+xml"
+    },
+    {
+        "ext": "smv",
+        "typ": "video/x-smv"
+    },
+    {
+        "ext": "smzip",
+        "typ": "application/vnd.stepmania.package"
+    },
+    {
+        "ext": "snd",
+        "typ": "audio/basic"
+    },
+    {
+        "ext": "snf",
+        "typ": "application/x-font-snf"
+    },
+    {
+        "ext": "so",
+        "typ": "application/octet-stream"
+    },
+    {
+        "ext": "spc",
+        "typ": "application/x-pkcs7-certificates"
+    },
+    {
+        "ext": "spdx",
+        "typ": "text/spdx"
+    },
+    {
+        "ext": "spf",
+        "typ": "application/vnd.yamaha.smaf-phrase"
+    },
+    {
+        "ext": "spl",
+        "typ": "application/x-futuresplash"
+    },
+    {
+        "ext": "spot",
+        "typ": "text/vnd.in3d.spot"
+    },
+    {
+        "ext": "spp",
+        "typ": "application/scvp-vp-response"
+    },
+    {
+        "ext": "spq",
+        "typ": "application/scvp-vp-request"
+    },
+    {
+        "ext": "spx",
+        "typ": "audio/ogg"
+    },
+    {
+        "ext": "sql",
+        "typ": "application/x-sql"
+    },
+    {
+        "ext": "src",
+        "typ": "application/x-wais-source"
+    },
+    {
+        "ext": "srt",
+        "typ": "application/x-subrip"
+    },
+    {
+        "ext": "sru",
+        "typ": "application/sru+xml"
+    },
+    {
+        "ext": "srx",
+        "typ": "application/sparql-results+xml"
+    },
+    {
+        "ext": "ssdl",
+        "typ": "application/ssdl+xml"
+    },
+    {
+        "ext": "sse",
+        "typ": "application/vnd.kodak-descriptor"
+    },
+    {
+        "ext": "ssf",
+        "typ": "application/vnd.epson.ssf"
+    },
+    {
+        "ext": "ssml",
+        "typ": "application/ssml+xml"
+    },
+    {
+        "ext": "st",
+        "typ": "application/vnd.sailingtracker.track"
+    },
+    {
+        "ext": "stc",
+        "typ": "application/vnd.sun.xml.calc.template"
+    },
+    {
+        "ext": "std",
+        "typ": "application/vnd.sun.xml.draw.template"
+    },
+    {
+        "ext": "stf",
+        "typ": "application/vnd.wt.stf"
+    },
+    {
+        "ext": "sti",
+        "typ": "application/vnd.sun.xml.impress.template"
+    },
+    {
+        "ext": "stk",
+        "typ": "application/hyperstudio"
+    },
+    {
+        "ext": "stl",
+        "typ": "model/stl"
+    },
+    {
+        "ext": "stpx",
+        "typ": "model/step+xml"
+    },
+    {
+        "ext": "stpxz",
+        "typ": "model/step-xml+zip"
+    },
+    {
+        "ext": "stpz",
+        "typ": "model/step+zip"
+    },
+    {
+        "ext": "str",
+        "typ": "application/vnd.pg.format"
+    },
+    {
+        "ext": "stw",
+        "typ": "application/vnd.sun.xml.writer.template"
+    },
+    {
+        "ext": "styl",
+        "typ": "text/stylus"
+    },
+    {
+        "ext": "stylus",
+        "typ": "text/stylus"
+    },
+    {
+        "ext": "sub",
+        "typ": "text/vnd.dvb.subtitle"
+    },
+    {
+        "ext": "sus",
+        "typ": "application/vnd.sus-calendar"
+    },
+    {
+        "ext": "susp",
+        "typ": "application/vnd.sus-calendar"
+    },
+    {
+        "ext": "sv4cpio",
+        "typ": "application/x-sv4cpio"
+    },
+    {
+        "ext": "sv4crc",
+        "typ": "application/x-sv4crc"
+    },
+    {
+        "ext": "svc",
+        "typ": "application/vnd.dvb.service"
+    },
+    {
+        "ext": "svd",
+        "typ": "application/vnd.svd"
+    },
+    {
+        "ext": "svg",
+        "typ": "image/svg+xml"
+    },
+    {
+        "ext": "svgz",
+        "typ": "image/svg+xml"
+    },
+    {
+        "ext": "swa",
+        "typ": "application/x-director"
+    },
+    {
+        "ext": "swf",
+        "typ": "application/x-shockwave-flash"
+    },
+    {
+        "ext": "swi",
+        "typ": "application/vnd.aristanetworks.swi"
+    },
+    {
+        "ext": "swidtag",
+        "typ": "application/swid+xml"
+    },
+    {
+        "ext": "sxc",
+        "typ": "application/vnd.sun.xml.calc"
+    },
+    {
+        "ext": "sxd",
+        "typ": "application/vnd.sun.xml.draw"
+    },
+    {
+        "ext": "sxg",
+        "typ": "application/vnd.sun.xml.writer.global"
+    },
+    {
+        "ext": "sxi",
+        "typ": "application/vnd.sun.xml.impress"
+    },
+    {
+        "ext": "sxm",
+        "typ": "application/vnd.sun.xml.math"
+    },
+    {
+        "ext": "sxw",
+        "typ": "application/vnd.sun.xml.writer"
+    },
+    {
+        "ext": "t",
+        "typ": "text/troff"
+    },
+    {
+        "ext": "t3",
+        "typ": "application/x-t3vm-image"
+    },
+    {
+        "ext": "t38",
+        "typ": "image/t38"
+    },
+    {
+        "ext": "taglet",
+        "typ": "application/vnd.mynfc"
+    },
+    {
+        "ext": "tao",
+        "typ": "application/vnd.tao.intent-module-archive"
+    },
+    {
+        "ext": "tap",
+        "typ": "image/vnd.tencent.tap"
+    },
+    {
+        "ext": "tar",
+        "typ": "application/x-tar"
+    },
+    {
+        "ext": "tcap",
+        "typ": "application/vnd.3gpp2.tcap"
+    },
+    {
+        "ext": "tcl",
+        "typ": "application/x-tcl"
+    },
+    {
+        "ext": "td",
+        "typ": "application/urc-targetdesc+xml"
+    },
+    {
+        "ext": "teacher",
+        "typ": "application/vnd.smart.teacher"
+    },
+    {
+        "ext": "tei",
+        "typ": "application/tei+xml"
+    },
+    {
+        "ext": "teicorpus",
+        "typ": "application/tei+xml"
+    },
+    {
+        "ext": "tex",
+        "typ": "application/x-tex"
+    },
+    {
+        "ext": "texi",
+        "typ": "application/x-texinfo"
+    },
+    {
+        "ext": "texinfo",
+        "typ": "application/x-texinfo"
+    },
+    {
+        "ext": "text",
+        "typ": "text/plain"
+    },
+    {
+        "ext": "tfi",
+        "typ": "application/thraud+xml"
+    },
+    {
+        "ext": "tfm",
+        "typ": "application/x-tex-tfm"
+    },
+    {
+        "ext": "tfx",
+        "typ": "image/tiff-fx"
+    },
+    {
+        "ext": "tga",
+        "typ": "image/x-tga"
+    },
+    {
+        "ext": "thmx",
+        "typ": "application/vnd.ms-officetheme"
+    },
+    {
+        "ext": "tif",
+        "typ": "image/tiff"
+    },
+    {
+        "ext": "tiff",
+        "typ": "image/tiff"
+    },
+    {
+        "ext": "tk",
+        "typ": "application/x-tcl"
+    },
+    {
+        "ext": "tmo",
+        "typ": "application/vnd.tmobile-livetv"
+    },
+    {
+        "ext": "toml",
+        "typ": "application/toml"
+    },
+    {
+        "ext": "torrent",
+        "typ": "application/x-bittorrent"
+    },
+    {
+        "ext": "tpl",
+        "typ": "application/vnd.groove-tool-template"
+    },
+    {
+        "ext": "tpt",
+        "typ": "application/vnd.trid.tpt"
+    },
+    {
+        "ext": "tr",
+        "typ": "text/troff"
+    },
+    {
+        "ext": "tra",
+        "typ": "application/vnd.trueapp"
+    },
+    {
+        "ext": "trig",
+        "typ": "application/trig"
+    },
+    {
+        "ext": "trm",
+        "typ": "application/x-msterminal"
+    },
+    {
+        "ext": "ts",
+        "typ": "video/mp2t"
+    },
+    {
+        "ext": "tsd",
+        "typ": "application/timestamped-data"
+    },
+    {
+        "ext": "tsv",
+        "typ": "text/tab-separated-values"
+    },
+    {
+        "ext": "ttc",
+        "typ": "font/collection"
+    },
+    {
+        "ext": "ttf",
+        "typ": "font/ttf"
+    },
+    {
+        "ext": "ttl",
+        "typ": "text/turtle"
+    },
+    {
+        "ext": "ttml",
+        "typ": "application/ttml+xml"
+    },
+    {
+        "ext": "twd",
+        "typ": "application/vnd.simtech-mindmapper"
+    },
+    {
+        "ext": "twds",
+        "typ": "application/vnd.simtech-mindmapper"
+    },
+    {
+        "ext": "txd",
+        "typ": "application/vnd.genomatix.tuxedo"
+    },
+    {
+        "ext": "txf",
+        "typ": "application/vnd.mobius.txf"
+    },
+    {
+        "ext": "txt",
+        "typ": "text/plain"
+    },
+    {
+        "ext": "u32",
+        "typ": "application/x-authorware-bin"
+    },
+    {
+        "ext": "u8dsn",
+        "typ": "message/global-delivery-status"
+    },
+    {
+        "ext": "u8hdr",
+        "typ": "message/global-headers"
+    },
+    {
+        "ext": "u8mdn",
+        "typ": "message/global-disposition-notification"
+    },
+    {
+        "ext": "u8msg",
+        "typ": "message/global"
+    },
+    {
+        "ext": "ubj",
+        "typ": "application/ubjson"
+    },
+    {
+        "ext": "udeb",
+        "typ": "application/x-debian-package"
+    },
+    {
+        "ext": "ufd",
+        "typ": "application/vnd.ufdl"
+    },
+    {
+        "ext": "ufdl",
+        "typ": "application/vnd.ufdl"
+    },
+    {
+        "ext": "ulx",
+        "typ": "application/x-glulx"
+    },
+    {
+        "ext": "umj",
+        "typ": "application/vnd.umajin"
+    },
+    {
+        "ext": "unityweb",
+        "typ": "application/vnd.unity"
+    },
+    {
+        "ext": "uoml",
+        "typ": "application/vnd.uoml+xml"
+    },
+    {
+        "ext": "uri",
+        "typ": "text/uri-list"
+    },
+    {
+        "ext": "uris",
+        "typ": "text/uri-list"
+    },
+    {
+        "ext": "urls",
+        "typ": "text/uri-list"
+    },
+    {
+        "ext": "usdz",
+        "typ": "model/vnd.usdz+zip"
+    },
+    {
+        "ext": "ustar",
+        "typ": "application/x-ustar"
+    },
+    {
+        "ext": "utz",
+        "typ": "application/vnd.uiq.theme"
+    },
+    {
+        "ext": "uu",
+        "typ": "text/x-uuencode"
+    },
+    {
+        "ext": "uva",
+        "typ": "audio/vnd.dece.audio"
+    },
+    {
+        "ext": "uvd",
+        "typ": "application/vnd.dece.data"
+    },
+    {
+        "ext": "uvf",
+        "typ": "application/vnd.dece.data"
+    },
+    {
+        "ext": "uvg",
+        "typ": "image/vnd.dece.graphic"
+    },
+    {
+        "ext": "uvh",
+        "typ": "video/vnd.dece.hd"
+    },
+    {
+        "ext": "uvi",
+        "typ": "image/vnd.dece.graphic"
+    },
+    {
+        "ext": "uvm",
+        "typ": "video/vnd.dece.mobile"
+    },
+    {
+        "ext": "uvp",
+        "typ": "video/vnd.dece.pd"
+    },
+    {
+        "ext": "uvs",
+        "typ": "video/vnd.dece.sd"
+    },
+    {
+        "ext": "uvt",
+        "typ": "application/vnd.dece.ttml+xml"
+    },
+    {
+        "ext": "uvu",
+        "typ": "video/vnd.uvvu.mp4"
+    },
+    {
+        "ext": "uvv",
+        "typ": "video/vnd.dece.video"
+    },
+    {
+        "ext": "uvva",
+        "typ": "audio/vnd.dece.audio"
+    },
+    {
+        "ext": "uvvd",
+        "typ": "application/vnd.dece.data"
+    },
+    {
+        "ext": "uvvf",
+        "typ": "application/vnd.dece.data"
+    },
+    {
+        "ext": "uvvg",
+        "typ": "image/vnd.dece.graphic"
+    },
+    {
+        "ext": "uvvh",
+        "typ": "video/vnd.dece.hd"
+    },
+    {
+        "ext": "uvvi",
+        "typ": "image/vnd.dece.graphic"
+    },
+    {
+        "ext": "uvvm",
+        "typ": "video/vnd.dece.mobile"
+    },
+    {
+        "ext": "uvvp",
+        "typ": "video/vnd.dece.pd"
+    },
+    {
+        "ext": "uvvs",
+        "typ": "video/vnd.dece.sd"
+    },
+    {
+        "ext": "uvvt",
+        "typ": "application/vnd.dece.ttml+xml"
+    },
+    {
+        "ext": "uvvu",
+        "typ": "video/vnd.uvvu.mp4"
+    },
+    {
+        "ext": "uvvv",
+        "typ": "video/vnd.dece.video"
+    },
+    {
+        "ext": "uvvx",
+        "typ": "application/vnd.dece.unspecified"
+    },
+    {
+        "ext": "uvvz",
+        "typ": "application/vnd.dece.zip"
+    },
+    {
+        "ext": "uvx",
+        "typ": "application/vnd.dece.unspecified"
+    },
+    {
+        "ext": "uvz",
+        "typ": "application/vnd.dece.zip"
+    },
+    {
+        "ext": "vbox",
+        "typ": "application/x-virtualbox-vbox"
+    },
+    {
+        "ext": "vbox-extpack",
+        "typ": "application/x-virtualbox-vbox-extpack"
+    },
+    {
+        "ext": "vcard",
+        "typ": "text/vcard"
+    },
+    {
+        "ext": "vcd",
+        "typ": "application/x-cdlink"
+    },
+    {
+        "ext": "vcf",
+        "typ": "text/x-vcard"
+    },
+    {
+        "ext": "vcg",
+        "typ": "application/vnd.groove-vcard"
+    },
+    {
+        "ext": "vcs",
+        "typ": "text/x-vcalendar"
+    },
+    {
+        "ext": "vcx",
+        "typ": "application/vnd.vcx"
+    },
+    {
+        "ext": "vdi",
+        "typ": "application/x-virtualbox-vdi"
+    },
+    {
+        "ext": "vds",
+        "typ": "model/vnd.sap.vds"
+    },
+    {
+        "ext": "vhd",
+        "typ": "application/x-virtualbox-vhd"
+    },
+    {
+        "ext": "vis",
+        "typ": "application/vnd.visionary"
+    },
+    {
+        "ext": "viv",
+        "typ": "video/vnd.vivo"
+    },
+    {
+        "ext": "vmdk",
+        "typ": "application/x-virtualbox-vmdk"
+    },
+    {
+        "ext": "vob",
+        "typ": "video/x-ms-vob"
+    },
+    {
+        "ext": "vor",
+        "typ": "application/vnd.stardivision.writer"
+    },
+    {
+        "ext": "vox",
+        "typ": "application/x-authorware-bin"
+    },
+    {
+        "ext": "vrml",
+        "typ": "model/vrml"
+    },
+    {
+        "ext": "vsd",
+        "typ": "application/vnd.visio"
+    },
+    {
+        "ext": "vsf",
+        "typ": "application/vnd.vsf"
+    },
+    {
+        "ext": "vss",
+        "typ": "application/vnd.visio"
+    },
+    {
+        "ext": "vst",
+        "typ": "application/vnd.visio"
+    },
+    {
+        "ext": "vsw",
+        "typ": "application/vnd.visio"
+    },
+    {
+        "ext": "vtf",
+        "typ": "image/vnd.valve.source.texture"
+    },
+    {
+        "ext": "vtt",
+        "typ": "text/vtt"
+    },
+    {
+        "ext": "vtu",
+        "typ": "model/vnd.vtu"
+    },
+    {
+        "ext": "vxml",
+        "typ": "application/voicexml+xml"
+    },
+    {
+        "ext": "w3d",
+        "typ": "application/x-director"
+    },
+    {
+        "ext": "wad",
+        "typ": "application/x-doom"
+    },
+    {
+        "ext": "wadl",
+        "typ": "application/vnd.sun.wadl+xml"
+    },
+    {
+        "ext": "war",
+        "typ": "application/java-archive"
+    },
+    {
+        "ext": "wasm",
+        "typ": "application/wasm"
+    },
+    {
+        "ext": "wav",
+        "typ": "audio/x-wav"
+    },
+    {
+        "ext": "wax",
+        "typ": "audio/x-ms-wax"
+    },
+    {
+        "ext": "wbmp",
+        "typ": "image/vnd.wap.wbmp"
+    },
+    {
+        "ext": "wbs",
+        "typ": "application/vnd.criticaltools.wbs+xml"
+    },
+    {
+        "ext": "wbxml",
+        "typ": "application/vnd.wap.wbxml"
+    },
+    {
+        "ext": "wcm",
+        "typ": "application/vnd.ms-works"
+    },
+    {
+        "ext": "wdb",
+        "typ": "application/vnd.ms-works"
+    },
+    {
+        "ext": "wdp",
+        "typ": "image/vnd.ms-photo"
+    },
+    {
+        "ext": "weba",
+        "typ": "audio/webm"
+    },
+    {
+        "ext": "webapp",
+        "typ": "application/x-web-app-manifest+json"
+    },
+    {
+        "ext": "webm",
+        "typ": "video/webm"
+    },
+    {
+        "ext": "webmanifest",
+        "typ": "application/manifest+json"
+    },
+    {
+        "ext": "webp",
+        "typ": "image/webp"
+    },
+    {
+        "ext": "wg",
+        "typ": "application/vnd.pmi.widget"
+    },
+    {
+        "ext": "wgt",
+        "typ": "application/widget"
+    },
+    {
+        "ext": "wks",
+        "typ": "application/vnd.ms-works"
+    },
+    {
+        "ext": "wm",
+        "typ": "video/x-ms-wm"
+    },
+    {
+        "ext": "wma",
+        "typ": "audio/x-ms-wma"
+    },
+    {
+        "ext": "wmd",
+        "typ": "application/x-ms-wmd"
+    },
+    {
+        "ext": "wmf",
+        "typ": "image/wmf"
+    },
+    {
+        "ext": "wml",
+        "typ": "text/vnd.wap.wml"
+    },
+    {
+        "ext": "wmlc",
+        "typ": "application/vnd.wap.wmlc"
+    },
+    {
+        "ext": "wmls",
+        "typ": "text/vnd.wap.wmlscript"
+    },
+    {
+        "ext": "wmlsc",
+        "typ": "application/vnd.wap.wmlscriptc"
+    },
+    {
+        "ext": "wmv",
+        "typ": "video/x-ms-wmv"
+    },
+    {
+        "ext": "wmx",
+        "typ": "video/x-ms-wmx"
+    },
+    {
+        "ext": "wmz",
+        "typ": "application/x-msmetafile"
+    },
+    {
+        "ext": "woff",
+        "typ": "font/woff"
+    },
+    {
+        "ext": "woff2",
+        "typ": "font/woff2"
+    },
+    {
+        "ext": "wpd",
+        "typ": "application/vnd.wordperfect"
+    },
+    {
+        "ext": "wpl",
+        "typ": "application/vnd.ms-wpl"
+    },
+    {
+        "ext": "wps",
+        "typ": "application/vnd.ms-works"
+    },
+    {
+        "ext": "wqd",
+        "typ": "application/vnd.wqd"
+    },
+    {
+        "ext": "wri",
+        "typ": "application/x-mswrite"
+    },
+    {
+        "ext": "wrl",
+        "typ": "model/vrml"
+    },
+    {
+        "ext": "wsc",
+        "typ": "message/vnd.wfa.wsc"
+    },
+    {
+        "ext": "wsdl",
+        "typ": "application/wsdl+xml"
+    },
+    {
+        "ext": "wspolicy",
+        "typ": "application/wspolicy+xml"
+    },
+    {
+        "ext": "wtb",
+        "typ": "application/vnd.webturbo"
+    },
+    {
+        "ext": "wvx",
+        "typ": "video/x-ms-wvx"
+    },
+    {
+        "ext": "x32",
+        "typ": "application/x-authorware-bin"
+    },
+    {
+        "ext": "x3d",
+        "typ": "model/x3d+xml"
+    },
+    {
+        "ext": "x3db",
+        "typ": "model/x3d+fastinfoset"
+    },
+    {
+        "ext": "x3dbz",
+        "typ": "model/x3d+binary"
+    },
+    {
+        "ext": "x3dv",
+        "typ": "model/x3d-vrml"
+    },
+    {
+        "ext": "x3dvz",
+        "typ": "model/x3d+vrml"
+    },
+    {
+        "ext": "x3dz",
+        "typ": "model/x3d+xml"
+    },
+    {
+        "ext": "x_b",
+        "typ": "model/vnd.parasolid.transmit.binary"
+    },
+    {
+        "ext": "x_t",
+        "typ": "model/vnd.parasolid.transmit.text"
+    },
+    {
+        "ext": "xaml",
+        "typ": "application/xaml+xml"
+    },
+    {
+        "ext": "xap",
+        "typ": "application/x-silverlight-app"
+    },
+    {
+        "ext": "xar",
+        "typ": "application/vnd.xara"
+    },
+    {
+        "ext": "xav",
+        "typ": "application/xcap-att+xml"
+    },
+    {
+        "ext": "xbap",
+        "typ": "application/x-ms-xbap"
+    },
+    {
+        "ext": "xbd",
+        "typ": "application/vnd.fujixerox.docuworks.binder"
+    },
+    {
+        "ext": "xbm",
+        "typ": "image/x-xbitmap"
+    },
+    {
+        "ext": "xca",
+        "typ": "application/xcap-caps+xml"
+    },
+    {
+        "ext": "xcs",
+        "typ": "application/calendar+xml"
+    },
+    {
+        "ext": "xdf",
+        "typ": "application/xcap-diff+xml"
+    },
+    {
+        "ext": "xdm",
+        "typ": "application/vnd.syncml.dm+xml"
+    },
+    {
+        "ext": "xdp",
+        "typ": "application/vnd.adobe.xdp+xml"
+    },
+    {
+        "ext": "xdssc",
+        "typ": "application/dssc+xml"
+    },
+    {
+        "ext": "xdw",
+        "typ": "application/vnd.fujixerox.docuworks"
+    },
+    {
+        "ext": "xel",
+        "typ": "application/xcap-el+xml"
+    },
+    {
+        "ext": "xenc",
+        "typ": "application/xenc+xml"
+    },
+    {
+        "ext": "xer",
+        "typ": "application/patch-ops-error+xml"
+    },
+    {
+        "ext": "xfdf",
+        "typ": "application/vnd.adobe.xfdf"
+    },
+    {
+        "ext": "xfdl",
+        "typ": "application/vnd.xfdl"
+    },
+    {
+        "ext": "xht",
+        "typ": "application/xhtml+xml"
+    },
+    {
+        "ext": "xhtml",
+        "typ": "application/xhtml+xml"
+    },
+    {
+        "ext": "xhvml",
+        "typ": "application/xv+xml"
+    },
+    {
+        "ext": "xif",
+        "typ": "image/vnd.xiff"
+    },
+    {
+        "ext": "xla",
+        "typ": "application/vnd.ms-excel"
+    },
+    {
+        "ext": "xlam",
+        "typ": "application/vnd.ms-excel.addin.macroenabled.12"
+    },
+    {
+        "ext": "xlc",
+        "typ": "application/vnd.ms-excel"
+    },
+    {
+        "ext": "xlf",
+        "typ": "application/xliff+xml"
+    },
+    {
+        "ext": "xlm",
+        "typ": "application/vnd.ms-excel"
+    },
+    {
+        "ext": "xls",
+        "typ": "application/vnd.ms-excel"
+    },
+    {
+        "ext": "xlsb",
+        "typ": "application/vnd.ms-excel.sheet.binary.macroenabled.12"
+    },
+    {
+        "ext": "xlsm",
+        "typ": "application/vnd.ms-excel.sheet.macroenabled.12"
+    },
+    {
+        "ext": "xlsx",
+        "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+        "ext": "xlt",
+        "typ": "application/vnd.ms-excel"
+    },
+    {
+        "ext": "xltm",
+        "typ": "application/vnd.ms-excel.template.macroenabled.12"
+    },
+    {
+        "ext": "xltx",
+        "typ": "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+    },
+    {
+        "ext": "xlw",
+        "typ": "application/vnd.ms-excel"
+    },
+    {
+        "ext": "xm",
+        "typ": "audio/xm"
+    },
+    {
+        "ext": "xml",
+        "typ": "text/xml"
+    },
+    {
+        "ext": "xns",
+        "typ": "application/xcap-ns+xml"
+    },
+    {
+        "ext": "xo",
+        "typ": "application/vnd.olpc-sugar"
+    },
+    {
+        "ext": "xop",
+        "typ": "application/xop+xml"
+    },
+    {
+        "ext": "xpi",
+        "typ": "application/x-xpinstall"
+    },
+    {
+        "ext": "xpl",
+        "typ": "application/xproc+xml"
+    },
+    {
+        "ext": "xpm",
+        "typ": "image/x-xpixmap"
+    },
+    {
+        "ext": "xpr",
+        "typ": "application/vnd.is-xpr"
+    },
+    {
+        "ext": "xps",
+        "typ": "application/vnd.ms-xpsdocument"
+    },
+    {
+        "ext": "xpw",
+        "typ": "application/vnd.intercon.formnet"
+    },
+    {
+        "ext": "xpx",
+        "typ": "application/vnd.intercon.formnet"
+    },
+    {
+        "ext": "xsd",
+        "typ": "application/xml"
+    },
+    {
+        "ext": "xsl",
+        "typ": "application/xslt+xml"
+    },
+    {
+        "ext": "xslt",
+        "typ": "application/xslt+xml"
+    },
+    {
+        "ext": "xsm",
+        "typ": "application/vnd.syncml+xml"
+    },
+    {
+        "ext": "xspf",
+        "typ": "application/xspf+xml"
+    },
+    {
+        "ext": "xul",
+        "typ": "application/vnd.mozilla.xul+xml"
+    },
+    {
+        "ext": "xvm",
+        "typ": "application/xv+xml"
+    },
+    {
+        "ext": "xvml",
+        "typ": "application/xv+xml"
+    },
+    {
+        "ext": "xwd",
+        "typ": "image/x-xwindowdump"
+    },
+    {
+        "ext": "xyz",
+        "typ": "chemical/x-xyz"
+    },
+    {
+        "ext": "xz",
+        "typ": "application/x-xz"
+    },
+    {
+        "ext": "yaml",
+        "typ": "text/yaml"
+    },
+    {
+        "ext": "yang",
+        "typ": "application/yang"
+    },
+    {
+        "ext": "yin",
+        "typ": "application/yin+xml"
+    },
+    {
+        "ext": "yml",
+        "typ": "text/yaml"
+    },
+    {
+        "ext": "ymp",
+        "typ": "text/x-suse-ymp"
+    },
+    {
+        "ext": "z1",
+        "typ": "application/x-zmachine"
+    },
+    {
+        "ext": "z2",
+        "typ": "application/x-zmachine"
+    },
+    {
+        "ext": "z3",
+        "typ": "application/x-zmachine"
+    },
+    {
+        "ext": "z4",
+        "typ": "application/x-zmachine"
+    },
+    {
+        "ext": "z5",
+        "typ": "application/x-zmachine"
+    },
+    {
+        "ext": "z6",
+        "typ": "application/x-zmachine"
+    },
+    {
+        "ext": "z7",
+        "typ": "application/x-zmachine"
+    },
+    {
+        "ext": "z8",
+        "typ": "application/x-zmachine"
+    },
+    {
+        "ext": "zaz",
+        "typ": "application/vnd.zzazz.deck+xml"
+    },
+    {
+        "ext": "zip",
+        "typ": "application/zip"
+    },
+    {
+        "ext": "zir",
+        "typ": "application/vnd.zul"
+    },
+    {
+        "ext": "zirz",
+        "typ": "application/vnd.zul"
+    },
+    {
+        "ext": "zmm",
+        "typ": "application/vnd.handheld-entertainment+xml"
+    }
+]

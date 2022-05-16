@@ -1,0 +1,23 @@
+<table class="table table-bordered table-fixed mt-2">
+  <thead>
+    <tr>
+      <th style="width: 10%;">ID</th>
+      <th style="width: 12%;">Mob. No</th>
+      <th style="width: 38%;">Name</th>
+      <th style="width: 30%;">Mail</th>
+      <th style="width: 10%;">Period</th>
+    
+    </tr>
+  </thead>  
+  <tbody>
+    <tr ng-repeat="s in profiles">
+      <td style="width: 10%;">{{s.clientId}}</td>
+      <td style="width: 12%;">{{s.clientMob}}</td>
+      <td style="width: 38%;">{{s.clientName}}</td>
+      <td style="width: 30%;">{{s.clientMail}}</td>
+      <td style="width: 10%;">{{s.period}}</td>
+ 
+    </tr>
+  </tbody>
+</table>
+ 

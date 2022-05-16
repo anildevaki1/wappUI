@@ -1,0 +1,55 @@
+<!-- 
+<table class="table table-bordered table-fixed mt-2" id="profile">
+    <thead>
+      <tr>
+        <th style="width: 10%;">ID</th>
+        <th style="width: 12%;">Mob. No</th>
+        <th style="width: 38%;">Name</th>
+        <th style="width: 7%;">Action</th>
+  
+      </tr>
+    </thead>  
+    <tbody>
+      <tr ng-repeat="s in qr">
+        <td style="width: 10%;">{{s.clientId}}</td>
+        <td style="width: 12%;">{{s.clientMob}}</td>
+        <td style="width: 38%;">{{s.clientName}}</td>
+        <td style="width: 20%;">{{s.clientMail}}</td>
+       
+        <td style="width: 7%;" ng-click="reset()" >
+          Reset
+         </td>
+      </tr>
+    </tbody>
+  </table> -->
+
+<div class="container">
+
+  <h3 class="display-1 text-center mt-3" style="font-size:1.5rem;font-weight:400;">Whatsapp Account Detail</h3>
+  <div class="d-flex justify-content-center" ng-if="userInfo.info">
+    <div class="card p-0 mt-3 w-50">
+      <div class="row m-0">
+        <div class="col col-sm-3 border border-1 p-2 text-center">
+          Name :
+        </div>
+        <div class="col col-sm-9 border border-1 p-2 fw-bold">
+          {{userInfo.info.pushname}}
+        </div>
+
+        <div class="col col-sm-3 border border-1 p-2 text-center">
+          Mobile :
+        </div>
+        <div class="col col-sm-9 border border-1 p-2 fw-bold">
+          {{userInfo.info.me.user}}
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+<!--   
+<div class="container">
+        Please Scan Qr
+</div> -->
