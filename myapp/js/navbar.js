@@ -3,18 +3,19 @@ var myApp = angular.module('myApp')
 
     .controller('navbar', function ($scope, $http, $filter, $state, commonService) {
 
-        $scope.home=()=>{
+        $scope.home = () => {
             $state.go("info.sub.dashboard");
         }
 
-        $scope.pricing=()=>
-        {
+        $scope.pricing = () => {
             $state.go("info.sub.pricing");
         }
 
-        $scope.login=()=>{
+        $scope.login = () => {
             $state.go("info.sub.login");
         }
+
+
     })
 
 
@@ -119,13 +120,16 @@ var myApp = angular.module('myApp')
             $state.go('app.main.home');
         }
 
-
-
         $scope.subscription = () => {
             $state.go('app.main.subscription');
         }
 
         $scope.pricing = () => {
             $state.go('app.main.pricing');
+        }
+
+
+        $scope.Documentation = () => {
+            $state.go("app.main.documentation");
         }
     })

@@ -1,0 +1,342 @@
+<h3>Document</h3>
+
+
+
+
+
+<div class="accordion" id="accordionExample">
+
+
+    <div class="accordion-item mb-2 border border-success">
+        <h4 class="accordion-header" id="headingOne">
+
+            <button class="accordion-button d-flex py-1 align-items-center" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <h5 class="m-0"> <span class="badge bg-secondary me-2">Post</span></h5> <b class="text-dark me-2"> /
+                    send-message</b> send-text-message
+            </button>
+        </h4>
+
+        <div id="collapseOne" class="accordion-collapse collapse" style="background-color: #fddddd"
+            aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <div class="row m-0 mb-3  border-bottom">
+                    <div class="col-3">Name</div>
+                    <div class="col-9">Description</div>
+
+                </div>
+
+                <div class="row m-2 pb-2 border-bottom">
+                    <div class="col-3"><b>body</b></div>
+                    <div class="col-9">
+                        <div class="row m-0">
+                            <div class="col col-12">
+                                <div class="w-100">
+                                    <!-- <pre class="body-param__example microlight"
+                                        style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(51, 51, 51); color: white;">
+                                <code class="language-json text-start" style="white-space: pre;"><span>{
+                                </span><span>  </span><span class="hljs-attr">"Sender"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                </span><span>  </span><span class="hljs-attr">"number"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                </span><span>  </span><span class="hljs-attr">"message"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                             
+                                </span>}
+                                </code></pre> -->
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="sender">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="number">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2"
+                                        placeholder="message">
+
+                                </div>
+                            </div>
+                            <div class="col col-12">
+                                <p class="m-1">Parameter content type</p>
+                                <select>
+                                    <option>multipart/form-data</option>
+                                </select>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="row m-2   w-100 bg-light shadow-md">
+                    <div class="col col-2">Responses</div>
+                    <div class="col col-10 text-end"> Response content type <select>
+                            <option>application/json</option>
+                        </select></div>
+                </div>
+
+                <div class="row m-0 mt-3">
+                    <div class="col col-sm-3"></div>
+                    <div class="col col-sm-9">
+                        <pre class="body-param__example microlight"
+                            style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(51, 51, 51); color: white;">
+                    <code class="language-json text-start" style="white-space: pre;"><span>{
+                    </span><span>  </span><span class="hljs-attr">"Status"</span><span>: </span><span style="color: rgb(211, 99, 99);">0</span><span>,
+                    </span><span>  </span><span class="hljs-attr">"Response"</span><span>: </span><span style="color: rgb(211, 99, 99);">{}</span><span>,
+                    </span>}
+                    </code></pre>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="accordion-item m-0 my-2 border border-success">
+        <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed d-flex py-1 align-items-center" type="button"
+                data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
+                aria-controls="collapseTwo">
+                <h5 class="m-0"> <span class="badge bg-secondary me-2">Post</span></h5> <b class="text-dark me-2"> /
+                    send-fileurlmedia</b> Send File by URL
+            </button>
+        </h2>
+        <div id="collapseTwo" class="accordion-collapse  collapse" style="background-color: #fddddd"
+            aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+
+                <div class="row m-0 mb-3  border-bottom">
+                    <div class="col-3">Name</div>
+                    <div class="col-9">Description</div>
+
+                </div>
+
+                <div class="row m-2 pb-2 border-bottom">
+                    <div class="col-3"><b>body</b></div>
+                    <div class="col-9">
+                        <div class="row m-0">
+                            <div class="col col-12">
+                                <div class="w-100">
+                                    <!-- <pre class="body-param__example microlight"
+                                        style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(51, 51, 51); color: white;">
+                                <code class="language-json text-start" style="white-space: pre;"><span>{
+                                </span><span>  </span><span class="hljs-attr">"Sender"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                </span><span>  </span><span class="hljs-attr">"number"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                </span><span>  </span><span class="hljs-attr">"caption"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                </span><span>  </span></span><span class="hljs-attr">"File URL"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+ 
+                             
+                                </span>}
+                                </code></pre> -->
+
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="sender">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="number">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2"
+                                        placeholder="caption">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2"
+                                        placeholder="File URL">
+
+                                </div>
+                            </div>
+                            <div class="col col-12">
+                                <p class="m-1">Parameter content type</p>
+                                <select>
+                                    <option>multipart/form-data</option>
+                                </select>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="row m-2 w-100 bg-light shadow-md">
+                    <div class="col col-2">Responses</div>
+                    <div class="col col-10 text-end"> Response content type <select>
+                            <option>application/json</option>
+                        </select></div>
+                </div>
+
+
+                <div class="row m-0">
+                    <div class="col col-sm-3"></div>
+                    <div class="col col-sm-9">
+                        <pre class="body-param__example microlight"
+                            style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(51, 51, 51); color: white;">
+    <code class="language-json text-start" style="white-space: pre;"><span>{
+    </span><span>  </span><span class="hljs-attr">"Status"</span><span>: </span><span style="color: rgb(211, 99, 99);">0</span><span>,
+    </span><span>  </span><span class="hljs-attr">"Response"</span><span>: </span><span style="color: rgb(211, 99, 99);">{}</span><span>,
+    </span>}
+    </code></pre>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="accordion-item m-0 my-2 border border-success">
+        <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed d-flex py-1 align-items-center" type="button"
+                data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
+                aria-controls="collapseThree">
+                <h5 class="m-0"> <span class="badge bg-secondary me-2">Post</span></h5> <b class="text-dark me-2"> /
+                    send-base64media</b> Send File by Base64
+            </button>
+        </h2>
+        <div id="collapseThree" class="accordion-collapse collapse" style="background-color: #fddddd"
+            aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <div class="row m-0 mb-3  border-bottom">
+                    <div class="col-3">Name</div>
+                    <div class="col-9">Description</div>
+
+                </div>
+
+                <div class="row m-2 pb-2 border-bottom">
+                    <div class="col-3">body</div>
+                    <div class="col-9">
+                        <div class="row m-0">
+                            <div class="col col-12">
+                                <div class="w-100">
+                                    <!-- <pre class="body-param__example microlight"
+                                        style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(51, 51, 51); color: white;">
+                                    <code class="language-json text-start" style="white-space: pre;"><span>{
+                                    </span><span>  </span><span class="hljs-attr">"Sender"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                    </span><span>  </span><span class="hljs-attr">"number"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                    </span><span>  </span><span class="hljs-attr">"caption"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                    </span><span>  </span><span class="hljs-attr">"base64"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                    </span><span>  </span><span class="hljs-attr">"mimetype"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                    </span><span>  </span><span class="hljs-attr">"filename"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                    
+                                    </span>}
+                                    </code></pre> -->
+
+
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="sender">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="number">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2"
+                                        placeholder="caption">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="base64">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2"
+                                        placeholder="mimetype">
+                                    <input disabled type="file" class="form-control form-control-sm w-25 mb-2"
+                                        placeholder="base64">
+                                </div>
+                            </div>
+                            <div class="col col-12">
+                                <p class="m-1">Parameter content type</p>
+                                <select>
+                                    <option>multipart/form-data</option>
+                                </select>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="row m-2 w-100 bg-light shadow-md">
+                    <div class="col col-2">Responses</div>
+                    <div class="col col-10 text-end"> Response content type <select>
+                            <option>application/json</option>
+                        </select></div>
+                </div>
+
+
+                <div class="row m-0">
+                    <div class="col col-sm-3"></div>
+                    <div class="col col-sm-9">
+                        <pre class="body-param__example microlight"
+                            style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(51, 51, 51); color: white;">
+                    <code class="language-json text-start" style="white-space: pre;"><span>{
+                    </span><span>  </span><span class="hljs-attr">"Status"</span><span>: </span><span style="color: rgb(211, 99, 99);">0</span><span>,
+                    </span><span>  </span><span class="hljs-attr">"Response"</span><span>: </span><span style="color: rgb(211, 99, 99);">{}</span><span>,
+                    </span>}
+                    </code></pre>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item m-0 my-2 border border-success">
+        <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed d-flex py-1 align-items-center" type="button"
+                data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false"
+                aria-controls="collapseFour">
+                <h5 class="m-0"> <span class="badge bg-secondary me-2">Post</span></h5> <b class="text-dark me-2"> /
+                    send-base64media</b> Send File by Object
+            </button>
+        </h2>
+        <div id="collapseFour" class="accordion-collapse collapse" style="background-color: #fddddd"
+            aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <div class="row m-0 mb-3  border-bottom">
+                    <div class="col-3">Name</div>
+                    <div class="col-9">Description</div>
+
+                </div>
+
+                <div class="row m-2  border-bottom">
+                    <div class="col-3">body</div>
+                    <div class="col-9">
+                        <div class="row m-0">
+                            <div class="col col-12">
+                                <div class="w-100">
+                                    <!-- <pre class="body-param__example microlight"
+                                        style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(51, 51, 51); color: white;">
+                                    <code class="language-json text-start" style="white-space: pre;"><span>{
+                                    </span><span>  </span><span class="hljs-attr">"Sender"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                    </span><span>  </span><span class="hljs-attr">"number"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                    </span><span>  </span><span class="hljs-attr">"caption"</span><span>: </span><span style="color: rgb(211, 99, 99);">string</span><span>,
+                                    </span><span>  </span><span class="hljs-attr">"file"</span><span>: </span><span style="color: rgb(211, 99, 99);">file</span><span>,
+                                 
+                                    </span>}
+                                    </code></pre> -->
+
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="sender">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="number">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2"
+                                        placeholder="caption">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2"
+                                        placeholder="caption">
+                                    <input disabled class="form-control form-control-sm w-25 mb-2" placeholder="file">
+
+                                </div>
+                            </div>
+                            <div class="col col-12">
+                                <p class="m-1">Parameter content type</p>
+                                <select>
+                                    <option>multipart/form-data</option>
+                                </select>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="row m-1 mt-2 w-100 bg-light shadow-md">
+                    <div class="col col-2">Responses</div>
+                    <div class="col col-10 text-end"> Response content type <select>
+                            <option>application/json</option>
+                        </select></div>
+                </div>
+
+                <div class="row m-0">
+                    <div class="col col-sm-3"></div>
+                    <div class="col col-sm-9">
+                        <pre class="body-param__example microlight"
+                            style="display: block; overflow-x: auto; padding: 0.5em; background: rgb(51, 51, 51); color: white;">
+    <code class="language-json text-start" style="white-space: pre;"><span>{
+    </span><span>  </span><span class="hljs-attr">"Status"</span><span>: </span><span style="color: rgb(211, 99, 99);">0</span><span>,
+    </span><span>  </span><span class="hljs-attr">"Response"</span><span>: </span><span style="color: rgb(211, 99, 99);">{}</span><span>,
+    </span>}
+    </code></pre>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

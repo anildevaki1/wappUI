@@ -304,9 +304,7 @@ async function subscriptionValid(id) {
 
 
   return new Promise((resolve, reject) => {
-
-
-    
+ 
   //   axios.get(ApiServer+"client/get?id="+id).then(res => {
   //     var period = res.data.data;
 
@@ -316,6 +314,8 @@ async function subscriptionValid(id) {
   //       reject("Subscription Expired");
   //   }).catch(err => { reject(err) })
   // });
+  
+  
   https.request(ApiServer+"client/get?id="+id, res => {
       var period = res.data.data;
 

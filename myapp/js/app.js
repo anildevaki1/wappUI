@@ -1,5 +1,5 @@
 
-var myApp = angular.module('myApp', ['ui.router', 'angular-loading-bar'])
+var myApp = angular.module('myApp', ['ui.router', 'angular-loading-bar','swaggerUi'])
 
     .config(function ($stateProvider, $urlRouterProvider, cfpLoadingBarProvider) {
 
@@ -29,6 +29,8 @@ var myApp = angular.module('myApp', ['ui.router', 'angular-loading-bar'])
                 templateUrl: "views/info/dashbord.html",
               //  controller: "navbar"
             })
+
+
 
             .state("info.sub.login", {
                 url: "/login",
@@ -63,6 +65,13 @@ var myApp = angular.module('myApp', ['ui.router', 'angular-loading-bar'])
                 templateUrl: "views/home.html",
                 controller: "homeCtrl",
                 params: { "data": null }
+            })
+
+            
+            .state("app.main.documentation", {
+                url: "/documentation",
+                templateUrl: "views/documentation.html",
+                controller: "documentationCtrl"
             })
 
             .state("app.main.profile", {

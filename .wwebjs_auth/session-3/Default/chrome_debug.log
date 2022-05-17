@@ -1,0 +1,64 @@
+[0517/180213.017:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0517/180213.017:ERROR:cache_util.cc(146)] Unable to move cache folder D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\GPUCache to D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0517/180213.017:ERROR:disk_cache.cc(192)] Unable to create cache
+[0517/180213.017:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0517/180215.049:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0517/180215.049:ERROR:cache_util.cc(146)] Unable to move cache folder D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\Cache\Cache_Data to D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\Cache\old_Cache_Data_000
+[0517/180215.049:ERROR:disk_cache.cc(192)] Unable to create cache
+[0517/180216.044:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0517/180221.284:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0517/180224.200:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0517/180226.215:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0517/180226.215:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0517/180230.245:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0517/180232.262:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0517/180232.262:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0517/180236.309:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0517/180426.941:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0517/180426.941:ERROR:cache_util.cc(146)] Unable to move cache folder D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\GPUCache to D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0517/180426.941:ERROR:disk_cache.cc(192)] Unable to create cache
+[0517/180426.941:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0517/180428.961:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0517/180428.961:ERROR:cache_util.cc(146)] Unable to move cache folder D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\Cache\Cache_Data to D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\Cache\old_Cache_Data_000
+[0517/180428.961:ERROR:disk_cache.cc(192)] Unable to create cache
+[0517/180429.955:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0517/180435.233:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0517/180438.153:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0517/180440.162:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0517/180440.162:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0517/180444.196:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0517/180446.222:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0517/180446.222:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0517/180450.266:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0517/180500.289:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0517/180500.289:ERROR:cache_util.cc(146)] Unable to move cache folder D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\GPUCache to D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0517/180500.289:ERROR:disk_cache.cc(192)] Unable to create cache
+[0517/180500.289:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0517/180502.373:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0517/180502.373:ERROR:cache_util.cc(146)] Unable to move cache folder D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\Cache\Cache_Data to D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\Cache\old_Cache_Data_000
+[0517/180502.373:ERROR:disk_cache.cc(192)] Unable to create cache
+[0517/180503.344:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0517/180508.591:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0517/180511.536:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0517/180513.556:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0517/180513.556:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0517/180517.604:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0517/180519.635:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0517/180519.635:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0517/180523.703:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0517/180810.139:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0517/180810.140:ERROR:cache_util.cc(146)] Unable to move cache folder D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\GPUCache to D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0517/180810.140:ERROR:disk_cache.cc(192)] Unable to create cache
+[0517/180810.140:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0517/180812.189:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0517/180812.189:ERROR:cache_util.cc(146)] Unable to move cache folder D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\Cache\Cache_Data to D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\Cache\old_Cache_Data_000
+[0517/180812.189:ERROR:disk_cache.cc(192)] Unable to create cache
+[0517/180813.195:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0517/180818.487:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0517/180821.415:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0517/180823.428:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0517/180823.428:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0517/180827.480:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0517/180829.502:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\Anil\whatsappUI\wappUI\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0517/180829.502:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0517/180833.547:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
